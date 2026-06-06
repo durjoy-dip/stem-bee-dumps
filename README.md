@@ -35,9 +35,6 @@ Each word entry includes:
 
 ## 1. Engineering & Electronics
 
-> Foundation words from Day 1 · Advanced words from Day 8
-
----
 
 ### Semiconductor
 - **Difficulty:** ★ Foundation
@@ -376,9 +373,6 @@ Each word entry includes:
 
 ## 2. Physics & Mathematics
 
-> Foundation words from Day 2 · Advanced words from Day 9
-
----
 
 ### Thermodynamics
 - **Difficulty:** ★ Foundation
@@ -729,9 +723,6 @@ Each word entry includes:
 
 ## 3. Computing & Algorithms
 
-> Foundation words from Day 3 · Advanced words from Day 10
-
----
 
 ### Algorithm
 - **Difficulty:** ★ Foundation
@@ -937,8 +928,6 @@ Each word entry includes:
 
 ---
 
----
-
 ### Deadlock
 - **Difficulty:** ★★ Medium
 - **Origin:** Old English *dead* + *loc* — coined in operating systems theory
@@ -1037,9 +1026,6 @@ Each word entry includes:
 
 ## 4. Robotics & Automation
 
-> Foundation words from Day 4 · Advanced words from Day 11
-
----
 
 ### Actuator
 - **Difficulty:** ★ Foundation
@@ -1360,9 +1346,6 @@ Each word entry includes:
 
 ## 5. Power Systems & Energy
 
-> Foundation words from Day 5 · Advanced words from Day 12
-
----
 
 ### Thermoelectric
 - **Difficulty:** ★ Foundation
@@ -1661,9 +1644,6 @@ Each word entry includes:
 
 ## 6. Semiconductors & Materials
 
-> Foundation words from Day 6 · Advanced words from Day 13
-
----
 
 ### Crystallography
 - **Difficulty:** ★ Foundation
@@ -1961,9 +1941,6 @@ Each word entry includes:
 
 ## 7. Emerging & Interdisciplinary Tech
 
-> Words from Day 15 — crossing multiple STEM fields
-
----
 
 ### Nanotechnology
 - **Difficulty:** ★★ Medium
@@ -2139,9 +2116,6 @@ Each word entry includes:
 
 ## 8. AI, Biotech & Space
 
-> Words from Day 16 — artificial intelligence, biotechnology, and space science
-
----
 
 ### Backpropagation
 - **Difficulty:** ★★★ Hard
@@ -2339,4 +2313,4 @@ Understanding these roots will help you spell hundreds of STEM words — includi
 
 ---
 
-*Last updated: June 2026 · Words covered: Days 1–16 · Total: ~265 unique words*
+ 
