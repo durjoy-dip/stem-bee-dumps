@@ -455,11 +455,6 @@ Each word entry includes:
 - **Origin:** Latin *permeabilis* (that can be passed through)
 - **Meaning:** The degree to which a material allows magnetic field lines to pass through it.
 - **Roots:** `per-` `mea-`
-### Permeability
-- **Difficulty:** ★ Foundation
-- **Origin:** Latin *permeabilis* (that can be passed through)
-- **Meaning:** The degree to which a material allows magnetic field lines to pass through it.
-- **Roots:** `perme-`
 
 ---
 
@@ -893,12 +888,11 @@ Each word entry includes:
 ---
 
 ### Memoisation
-
-- **⚠ Spelling Trap:** British spelling: *memo* + **isation** (not *-ization*). M-E-M-O-I-S-A-T-I-O-N.
 - **Difficulty:** ★★ Medium
-- **Origin:** Greek *poly* (many) + *morphe* (form, shape) + *-ic*
-- **Meaning:** Describing code or data that can take multiple forms — used in type systems and OOP.
-- **Roots:** `poly-` `morph-`
+- **Origin:** Latin *memor* (remembering) + *-isation*
+- **Meaning:** The practice of storing the results of expensive function calls so repeated calls can reuse them.
+- **Roots:** `memo-` `-isation`
+- **⚠ Spelling Trap:** British spelling: *memo* + **isation** (not *-ization*). M-E-M-O-I-S-A-T-I-O-N.
 
 ---
 
@@ -1355,22 +1349,11 @@ Each word entry includes:
 
 ---
 
-### Transformer
 ### Transformer (electrical)
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *transformare* (to change in shape, from *trans* + *formare*: to form)
 - **Meaning:** An electrical device that transfers energy between circuits through electromagnetic induction, changing voltage levels.
 - **Roots:** `trans-` `form-`
-
-- **Origin:** Greek *elektron* (amber) + *lysis* (a loosening, from *lyein*: to loosen)
----
-### Transformer (ML)
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *transformare* (to change shape, from *trans* + *formare*: to form) — repurposed for the 2017 AI architecture
-- **Meaning:** A deep learning architecture based entirely on self-attention mechanisms, foundational to large language models.
-- **Roots:** `trans-` `form-` `-er`
-- **Meaning:** Describing an electric current that reverses direction periodically — the basis of AC power systems.
-- **Roots:** `altern-`
 
 ---
 
