@@ -888,10 +888,9 @@ Each word entry includes:
 ---
 
 ### Memoisation
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *memor* (remembering) + *-isation*
-- **Meaning:** The practice of storing the results of expensive function calls so repeated calls can reuse them.
-- **Roots:** `memo-` `-isation`
+- **Origin:** Latin *memorare* (to remember, from *memor*: mindful) — coined in computing by Donald Michie, 1968
+- **Meaning:** An optimisation technique that caches the results of expensive function calls and returns the cached result when the same inputs occur again.
+- **Roots:** `memor-` `-isation`
 - **⚠ Spelling Trap:** British spelling: *memo* + **isation** (not *-ization*). M-E-M-O-I-S-A-T-I-O-N.
 
 ---
