@@ -26,8 +26,10 @@ Each word entry includes:
 6. [Semiconductors & Materials](#6-semiconductors--materials) — 35 words
 7. [Emerging & Interdisciplinary Tech](#7-emerging--interdisciplinary-tech) — 20 words
 8. [AI, Biotech & Space](#8-ai-biotech--space) — 20 words
+9. [Communications & Signals](#9-communications--signals) — 20 words
 
-**Total unique words: ~264**
+**Total unique words: ~284**
+
 
 ---
 
@@ -2258,6 +2260,180 @@ Each word entry includes:
 - **Origin:** Greek *exo* (outside) + *bios* (life) + *logos* (word, study)
 - **Meaning:** The study of the potential for life beyond Earth — investigating extreme environments and the chemical origins of life.
 - **Roots:** `exo-` `bio-` `-logy`
+
+---
+
+---
+
+## 9. Communications & Signals
+
+### Modulation
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *modulari* (to measure, regulate, from *modulus*: small measure)
+- **Meaning:** The process of varying one or more properties of a carrier wave — amplitude, frequency, or phase — to encode information for transmission.
+- **Roots:** `modul-` `-ation`
+
+---
+
+### Oscillation
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *oscillare* (to swing, from *oscillum*: a small mask that swung in the breeze)
+- **Meaning:** A repetitive variation, typically in time, of some measure about a central value or between two or more different states.
+- **Roots:** `oscill-` `-ation`
+- **⚠ Spelling Trap:** Double 'l' from *oscillare* — same root as *oscilloscope*. O-S-C-I-L-L-A-T-I-O-N.
+
+---
+
+### Telecommunications
+- **Difficulty:** ★ Foundation
+- **Origin:** Greek *tele* (far off, at a distance) + Latin *communicare* (to share, make common, from *communis*: common)
+- **Meaning:** The transmission of signals, words, images, and data over significant distances by electromagnetic means.
+- **Roots:** `tele-` `communic-` `-ations`
+
+---
+
+### Multiplexing
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *multiplex* (manifold, many-fold) + *-ing*
+- **Meaning:** The technique of transmitting multiple signals or data streams simultaneously over a single communication channel.
+- **Roots:** `multi-` `plex-` `-ing`
+
+---
+
+### Attenuation
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *attenuare* (to make thin, to weaken, from *ad* + *tenuis*: thin)
+- **Meaning:** The reduction in the strength or amplitude of a signal as it travels through a medium or circuit.
+- **Roots:** `at-` `tenu-` `-ation`
+- **⚠ Spelling Trap:** Double 't' at the start: **at**-tenuation. Root *tenu-* has 'u' not 'o'. A-T-T-E-N-U-A-T-I-O-N.
+
+---
+
+### Transceiver
+- **Difficulty:** ★★ Medium
+- **Origin:** Portmanteau of *transmitter* + *receiver* — coined in radio engineering
+- **Meaning:** A device that can both transmit and receive signals — combining the functions of a transmitter and a receiver in one unit.
+- **Roots:** `trans-` `ceiv-` `-er`
+- **⚠ Spelling Trap:** Trans + **ceiver** (from *receiver*). The 'ei' in *-ceiver* is key — never *-ciever*. T-R-A-N-S-C-E-I-V-E-R.
+
+---
+
+### Propagation
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *propagare* (to extend, spread forward, from *propago*: layer of a plant)
+- **Meaning:** The travel of electromagnetic waves or signals through a medium — describing how radio waves, light, or sound move through space.
+- **Roots:** `propag-` `-ation`
+- **⚠ Spelling Trap:** Root is *propag-* with 'a': prop-**A**-gation. Never *propogation*. P-R-O-P-A-G-A-T-I-O-N.
+
+---
+
+### Dispersion
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *dispersio* (a scattering, from *dis* + *spargere*: to scatter, sprinkle)
+- **Meaning:** The phenomenon where different frequencies of a signal travel at different speeds through a medium, causing the signal to spread out over distance.
+- **Roots:** `dis-` `spers-` `-ion`
+
+---
+
+### Decibel
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *deci* (one-tenth) + *Alexander Graham Bell* (inventor of the telephone) — coined in telecommunications
+- **Meaning:** A logarithmic unit used to express the ratio of two power or amplitude values, widely used to measure signal levels.
+- **Roots:** `deci-` `bel`
+- **⚠ Spelling Trap:** Named after Bell — one word, lowercase 'd', lowercase 'b'. D-E-C-I-B-E-L. Never *decibell* or *desibel*.
+
+---
+
+### Spectrometer
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *spectrum* (appearance, image, from *specere*: to look, see) + Greek *metron* (measure)
+- **Meaning:** An instrument used to measure the properties of electromagnetic radiation across a specific portion of the spectrum.
+- **Roots:** `spectro-` `-meter`
+
+---
+
+### Waveguide
+- **Difficulty:** ★★ Medium
+- **Origin:** Old English *waeg* (wave) + French *guide* (a leader, from *guider*: to lead)
+- **Meaning:** A physical structure that guides electromagnetic waves from one point to another with minimal loss, used in microwave and optical systems.
+- **Roots:** `wave-` `guide`
+
+---
+
+### Quantization
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *quantus* (how much, how great) + *-ization*
+- **Meaning:** The process of mapping a continuous range of values to a finite set of discrete values — fundamental in analogue-to-digital conversion.
+- **Roots:** `quant-` `-ization`
+- **⚠ Spelling Trap:** Quant + **ization**. Unlike most British spellings here, *quantization* uses **-ization** (not *-isation*) as standard in technical literature. Q-U-A-N-T-I-Z-A-T-I-O-N.
+
+---
+
+### Beamforming
+- **Difficulty:** ★★ Medium
+- **Origin:** Old English *beam* (a ray of light) + Latin *formare* (to form, shape) + *-ing*
+- **Meaning:** A signal processing technique used with antenna arrays to direct transmission or reception of signals in a specific direction.
+- **Roots:** `beam-` `form-` `-ing`
+
+---
+
+### Equalization
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *aequalis* (equal, from *aequus*: level, flat) + *-ization*
+- **Meaning:** The process of adjusting the frequency response of a signal to compensate for distortion introduced during transmission.
+- **Roots:** `equal-` `-ization`
+
+---
+
+### Photodetector
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *photos* (light) + Latin *detector* (one that uncovers, from *de* + *tegere*: to cover)
+- **Meaning:** A device that converts incident light or other electromagnetic radiation into an electrical signal.
+- **Roots:** `photo-` `detect-` `-or`
+
+---
+
+### Transduction
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *transducere* (to lead across, from *trans* + *ducere*: to lead)
+- **Meaning:** The conversion of one form of energy into another — as in a microphone converting sound to electrical signals.
+- **Roots:** `trans-` `duct-` `-ion`
+- **⚠ Spelling Trap:** Trans + **duction**. Root *duct-* (to lead) — same as in *conduction* and *induction*. T-R-A-N-S-D-U-C-T-I-O-N.
+
+---
+
+### Quadrature
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *quadratura* (a squaring, from *quadrare*: to square, from *quadrus*: square)
+- **Meaning:** A phase relationship of 90 degrees between two waveforms of the same frequency — fundamental in I/Q signal processing and modulation schemes.
+- **Roots:** `quadr-` `-ature`
+- **⚠ Spelling Trap:** Root *quadr-* (square/four). The suffix is **-ature** not *-iture* or *-atur*. Q-U-A-D-R-A-T-U-R-E.
+
+---
+
+### Intermodulation
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *inter* (between, among) + *modulari* (to measure, regulate) + *-ation*
+- **Meaning:** A type of signal distortion that occurs when two or more signals mix in a non-linear system, generating unwanted frequencies.
+- **Roots:** `inter-` `modul-` `-ation`
+- **⚠ Spelling Trap:** Inter + modulation joined cleanly. Single 'r', single 'l' in *modul-*. I-N-T-E-R-M-O-D-U-L-A-T-I-O-N.
+
+---
+
+### Superheterodyne
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *super* (above) + Greek *heteros* (other, different) + *dynamis* (power, force) — coined by Edwin Armstrong, 1918
+- **Meaning:** A radio receiver architecture that converts a received signal to a fixed intermediate frequency before demodulation, improving selectivity and sensitivity.
+- **Roots:** `super-` `hetero-` `-dyne`
+- **⚠ Spelling Trap:** Three roots: super + hetero + **dyne**. The 'y' in *-dyne* is essential. S-U-P-E-R-H-E-T-E-R-O-D-Y-N-E.
+
+---
+
+### Demodulator
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *de* (reverse of) + *modulari* (to measure, regulate) + *-or* (agent suffix)
+- **Meaning:** A device or circuit that extracts the original information-bearing signal from a modulated carrier wave.
+- **Roots:** `de-` `modul-` `-ator`
 
 ---
 
