@@ -27,8 +27,9 @@ Each word entry includes:
 7. [Emerging & Interdisciplinary Tech](#7-emerging--interdisciplinary-tech) — 20 words
 8. [AI, Biotech & Space](#8-ai-biotech--space) — 20 words
 9. [Communications & Signals](#9-communications--signals) — 20 words
+10. [Chemical Engineering & Processes](#10-chemical-engineering--processes) — 20 words
 
-**Total unique words: ~284**
+**Total unique words: ~304**
 
 
 ---
@@ -2268,172 +2269,366 @@ Each word entry includes:
 ## 9. Communications & Signals
 
 ### Modulation
-- **Difficulty:** ★ Foundation
-- **Origin:** Latin *modulari* (to measure, regulate, from *modulus*: small measure)
-- **Meaning:** The process of varying one or more properties of a carrier wave — amplitude, frequency, or phase — to encode information for transmission.
-- **Roots:** `modul-` `-ation`
-
----
-
-### Oscillation
-- **Difficulty:** ★ Foundation
-- **Origin:** Latin *oscillare* (to swing, from *oscillum*: a small mask that swung in the breeze)
-- **Meaning:** A repetitive variation, typically in time, of some measure about a central value or between two or more different states.
-- **Roots:** `oscill-` `-ation`
-- **⚠ Spelling Trap:** Double 'l' from *oscillare* — same root as *oscilloscope*. O-S-C-I-L-L-A-T-I-O-N.
-
----
-
-### Telecommunications
-- **Difficulty:** ★ Foundation
-- **Origin:** Greek *tele* (far off, at a distance) + Latin *communicare* (to share, make common, from *communis*: common)
-- **Meaning:** The transmission of signals, words, images, and data over significant distances by electromagnetic means.
-- **Roots:** `tele-` `communic-` `-ations`
-
----
-
-### Multiplexing
-- **Difficulty:** ★ Foundation
-- **Origin:** Latin *multiplex* (manifold, many-fold) + *-ing*
-- **Meaning:** The technique of transmitting multiple signals or data streams simultaneously over a single communication channel.
-- **Roots:** `multi-` `plex-` `-ing`
-
----
-
-### Attenuation
+ 
 - **Difficulty:** ★★ Medium
-- **Origin:** Latin *attenuare* (to make thin, to weaken, from *ad* + *tenuis*: thin)
-- **Meaning:** The reduction in the strength or amplitude of a signal as it travels through a medium or circuit.
-- **Roots:** `at-` `tenu-` `-ation`
-- **⚠ Spelling Trap:** Double 't' at the start: **at**-tenuation. Root *tenu-* has 'u' not 'o'. A-T-T-E-N-U-A-T-I-O-N.
-
+- **Origin:** Latin *modulari* (to measure, regulate, from *modulus*: small measure)
+- **Meaning:** The process of varying a carrier signal's properties — amplitude, frequency, or phase — to encode information for transmission.
+- **Roots:** `modul-` `-ation`
 ---
-
+ 
+### Attenuation
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *attenuare* (to make thin, from *ad* + *tenuis*: thin, slender)
+- **Meaning:** The reduction in signal strength or power as it travels through a medium, measured in decibels per unit distance.
+- **Roots:** `at-` `tenu-` `-ation`
+- **⚠ Spelling Trap:** Double 't' at start. Root *tenu-* keeps its 'u'. A-T-T-E-N-U-A-T-I-O-N.
+---
+ 
+### Propagation
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *propagare* (to extend, spread, from *propago*: layer of a plant)
+- **Meaning:** The travel of electromagnetic waves or signals through a medium or free space from transmitter to receiver.
+- **Roots:** `propag-` `-ation`
+- **⚠ Spelling Trap:** Root *propag-* has 'a': prop-**A**-gation. Ends in **-ation**, not *-asion*. P-R-O-P-A-G-A-T-I-O-N.
+---
+ 
 ### Transceiver
+ 
 - **Difficulty:** ★★ Medium
 - **Origin:** Portmanteau of *transmitter* + *receiver* — coined in radio engineering
-- **Meaning:** A device that can both transmit and receive signals — combining the functions of a transmitter and a receiver in one unit.
+- **Meaning:** A device that can both transmit and receive signals, combining both functions in a single unit.
 - **Roots:** `trans-` `ceiv-` `-er`
-- **⚠ Spelling Trap:** Trans + **ceiver** (from *receiver*). The 'ei' in *-ceiver* is key — never *-ciever*. T-R-A-N-S-C-E-I-V-E-R.
-
 ---
-
-### Propagation
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *propagare* (to extend, spread forward, from *propago*: layer of a plant)
-- **Meaning:** The travel of electromagnetic waves or signals through a medium — describing how radio waves, light, or sound move through space.
-- **Roots:** `propag-` `-ation`
-- **⚠ Spelling Trap:** Root is *propag-* with 'a': prop-**A**-gation. Never *propogation*. P-R-O-P-A-G-A-T-I-O-N.
-
----
-
-### Dispersion
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *dispersio* (a scattering, from *dis* + *spargere*: to scatter, sprinkle)
-- **Meaning:** The phenomenon where different frequencies of a signal travel at different speeds through a medium, causing the signal to spread out over distance.
-- **Roots:** `dis-` `spers-` `-ion`
-
----
-
-### Decibel
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *deci* (one-tenth) + *Alexander Graham Bell* (inventor of the telephone) — coined in telecommunications
-- **Meaning:** A logarithmic unit used to express the ratio of two power or amplitude values, widely used to measure signal levels.
-- **Roots:** `deci-` `bel`
-- **⚠ Spelling Trap:** Named after Bell — one word, lowercase 'd', lowercase 'b'. D-E-C-I-B-E-L. Never *decibell* or *desibel*.
-
----
-
-### Spectrometer
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *spectrum* (appearance, image, from *specere*: to look, see) + Greek *metron* (measure)
-- **Meaning:** An instrument used to measure the properties of electromagnetic radiation across a specific portion of the spectrum.
-- **Roots:** `spectro-` `-meter`
-
----
-
-### Waveguide
-- **Difficulty:** ★★ Medium
-- **Origin:** Old English *waeg* (wave) + French *guide* (a leader, from *guider*: to lead)
-- **Meaning:** A physical structure that guides electromagnetic waves from one point to another with minimal loss, used in microwave and optical systems.
-- **Roots:** `wave-` `guide`
-
----
-
-### Quantization
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *quantus* (how much, how great) + *-ization*
-- **Meaning:** The process of mapping a continuous range of values to a finite set of discrete values — fundamental in analogue-to-digital conversion.
-- **Roots:** `quant-` `-ization`
-- **⚠ Spelling Trap:** Quant + **ization**. Unlike most British spellings here, *quantization* uses **-ization** (not *-isation*) as standard in technical literature. Q-U-A-N-T-I-Z-A-T-I-O-N.
-
----
-
-### Beamforming
-- **Difficulty:** ★★ Medium
-- **Origin:** Old English *beam* (a ray of light) + Latin *formare* (to form, shape) + *-ing*
-- **Meaning:** A signal processing technique used with antenna arrays to direct transmission or reception of signals in a specific direction.
-- **Roots:** `beam-` `form-` `-ing`
-
----
-
-### Equalization
-- **Difficulty:** ★★ Medium
-- **Origin:** Latin *aequalis* (equal, from *aequus*: level, flat) + *-ization*
-- **Meaning:** The process of adjusting the frequency response of a signal to compensate for distortion introduced during transmission.
-- **Roots:** `equal-` `-ization`
-
----
-
-### Photodetector
-- **Difficulty:** ★★ Medium
-- **Origin:** Greek *photos* (light) + Latin *detector* (one that uncovers, from *de* + *tegere*: to cover)
-- **Meaning:** A device that converts incident light or other electromagnetic radiation into an electrical signal.
-- **Roots:** `photo-` `detect-` `-or`
-
----
-
-### Transduction
-- **Difficulty:** ★★★ Hard
-- **Origin:** Latin *transducere* (to lead across, from *trans* + *ducere*: to lead)
-- **Meaning:** The conversion of one form of energy into another — as in a microphone converting sound to electrical signals.
-- **Roots:** `trans-` `duct-` `-ion`
-- **⚠ Spelling Trap:** Trans + **duction**. Root *duct-* (to lead) — same as in *conduction* and *induction*. T-R-A-N-S-D-U-C-T-I-O-N.
-
----
-
-### Quadrature
-- **Difficulty:** ★★★ Hard
-- **Origin:** Latin *quadratura* (a squaring, from *quadrare*: to square, from *quadrus*: square)
-- **Meaning:** A phase relationship of 90 degrees between two waveforms of the same frequency — fundamental in I/Q signal processing and modulation schemes.
-- **Roots:** `quadr-` `-ature`
-- **⚠ Spelling Trap:** Root *quadr-* (square/four). The suffix is **-ature** not *-iture* or *-atur*. Q-U-A-D-R-A-T-U-R-E.
-
----
-
-### Intermodulation
-- **Difficulty:** ★★★ Hard
-- **Origin:** Latin *inter* (between, among) + *modulari* (to measure, regulate) + *-ation*
-- **Meaning:** A type of signal distortion that occurs when two or more signals mix in a non-linear system, generating unwanted frequencies.
-- **Roots:** `inter-` `modul-` `-ation`
-- **⚠ Spelling Trap:** Inter + modulation joined cleanly. Single 'r', single 'l' in *modul-*. I-N-T-E-R-M-O-D-U-L-A-T-I-O-N.
-
----
-
-### Superheterodyne
-- **Difficulty:** ★★★ Hard
-- **Origin:** Latin *super* (above) + Greek *heteros* (other, different) + *dynamis* (power, force) — coined by Edwin Armstrong, 1918
-- **Meaning:** A radio receiver architecture that converts a received signal to a fixed intermediate frequency before demodulation, improving selectivity and sensitivity.
-- **Roots:** `super-` `hetero-` `-dyne`
-- **⚠ Spelling Trap:** Three roots: super + hetero + **dyne**. The 'y' in *-dyne* is essential. S-U-P-E-R-H-E-T-E-R-O-D-Y-N-E.
-
----
-
-### Demodulator
+ 
+### Wavelength
+ 
 - **Difficulty:** ★ Foundation
-- **Origin:** Latin *de* (reverse of) + *modulari* (to measure, regulate) + *-or* (agent suffix)
-- **Meaning:** A device or circuit that extracts the original information-bearing signal from a modulated carrier wave.
+- **Origin:** Old English *waeg* (wave) + *length* (from *lang*: long)
+- **Meaning:** The distance between successive crests of a wave, inversely proportional to frequency for electromagnetic radiation.
+- **Roots:** `wave-` `length`
+---
+ 
+### Decibel
+ 
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *deci* (one tenth) + *Alexander Graham Bell* (Scottish inventor) — unit named in his honour
+- **Meaning:** A logarithmic unit used to express the ratio of signal power or intensity, widely used in acoustics and telecommunications.
+- **Roots:** `deci-` `bel`
+---
+ 
+### Oscillation
+ 
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *oscillare* (to swing) + *-ation*
+- **Meaning:** A repetitive variation, typically in time, of some measure about a central value — the basis of all wave behaviour.
+- **Roots:** `oscill-` `-ation`
+---
+ 
+### Quadrature
+ 
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *quadratura* (a squaring, from *quadrare*: to make square, from *quattuor*: four)
+- **Meaning:** A signal processing state where two signals are exactly 90 degrees out of phase with each other — used in IQ modulation.
+- **Roots:** `quadr-` `-ature`
+- **⚠ Spelling Trap:** The 'a' after *quadr-* is essential: quadr-**A**-ture. Ends in **-ture**, not *-tur*. Q-U-A-D-R-A-T-U-R-E.
+---
+ 
+### Demultiplexer
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *de* (reverse of) + *multiplex* (manifold, many-fold) + *-er*
+- **Meaning:** A device that takes a single input signal and routes it to one of several output lines — the reverse of a multiplexer.
+- **Roots:** `de-` `multi-` `plex-` `-er`
+- **⚠ Spelling Trap:** Suffix is **-er**, not *-or* or *-ar*. The 'i' in *multi-* stays intact. D-E-M-U-L-T-I-P-L-E-X-E-R.
+---
+ 
+### Antenna
+ 
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *antenna* (sailyard of a ship — the horizontal cross-spar) — applied to radio aerials by Marconi
+- **Meaning:** A device that converts electrical signals into electromagnetic waves for transmission, or captures waves for reception.
+- **Roots:** `antenna`
+---
+ 
+### Directivity
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *directus* (straight, past participle of *dirigere*: to direct) + *-ivity*
+- **Meaning:** A measure of how concentrated an antenna's radiation pattern is in a particular direction compared to an isotropic radiator.
+- **Roots:** `direct-` `-ivity`
+- **⚠ Spelling Trap:** Direct + **ivity**. Suffix is **-ivity**, not *-ivety* or *-ivaty*. Single 'r'. D-I-R-E-C-T-I-V-I-T-Y.
+---
+ 
+### Orthogonal
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *orthos* (straight, correct) + *gonia* (angle, corner)
+- **Meaning:** Describing signals or vectors that are mathematically perpendicular — having zero cross-correlation — enabling independent transmission on the same channel.
+- **Roots:** `ortho-` `gon-` `-al`
+- **⚠ Spelling Trap:** The 'o' after *g*: orthog-**O**-nal. Not *orthagonal* or *orthigonal*. O-R-T-H-O-G-O-N-A-L.
+---
+ 
+### Amplitude
+ 
+- **Difficulty:** ★ Foundation
+- **Origin:** Latin *amplitudo* (breadth, extent, from *amplus*: large, spacious)
+- **Meaning:** The maximum displacement or distance moved by a wave from its equilibrium position — related to the energy or power of the wave.
+- **Roots:** `amplit-` `-ude`
+---
+ 
+### Dispersion
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *dispersio* (a scattering, from *dis* + *spargere*: to scatter, strew)
+- **Meaning:** The phenomenon in which the speed of wave propagation depends on frequency, causing different frequencies to travel at different velocities.
+- **Roots:** `dispers-` `-ion`
+---
+ 
+### Polarimetry
+ 
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *polus* (axis, pole) + *metron* (measure) + *-y*
+- **Meaning:** The measurement and analysis of the polarisation state of electromagnetic radiation, used in remote sensing and spectroscopy.
+- **Roots:** `polar-` `metr-` `-y`
+- **⚠ Spelling Trap:** Polar + **imetry**. Root *metr-* is standard — ends **-metry**, not *-mitry* or *-metrey*. P-O-L-A-R-I-M-E-T-R-Y.
+---
+ 
+### Photodetector
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *photos* (light) + Latin *detegere* (to uncover, detect, from *de* + *tegere*: to cover)
+- **Meaning:** A sensor that converts light or other electromagnetic radiation into an electrical signal, used in optical communications.
+- **Roots:** `photo-` `detect-` `-or`
+---
+ 
+### Beamforming
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Old English *beam* (ray of light, later radio beam) + Latin *formare* (to shape) + *-ing*
+- **Meaning:** A signal processing technique that focuses a transmitted or received signal in a specific direction using phased antenna arrays.
+- **Roots:** `beam-` `form-` `-ing`
+---
+ 
+### Heterogeneous
+ 
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *heteros* (other, different) + *genos* (kind, race, type) + *-ous*
+- **Meaning:** Describing a network or system composed of different types of components, technologies, or protocols working together.
+- **Roots:** `hetero-` `gen-` `-ous`
+- **⚠ Spelling Trap:** Ends in **-eous**, not *-ous* or *-ious*. The 'e' before *-ous* is essential. H-E-T-E-R-O-G-E-N-E-O-U-S.
+---
+ 
+### Demodulator
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *de* (reverse of) + *modulari* (to regulate) + *-ator*
+- **Meaning:** A circuit or device that extracts the original information-bearing signal from a modulated carrier wave.
 - **Roots:** `de-` `modul-` `-ator`
+---
+ 
+### Spectrometer
+ 
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *spectrum* (appearance, image) + Greek *metron* (measure) + *-er*
+- **Meaning:** An instrument that measures the properties of light across a specific portion of the electromagnetic spectrum, used to analyse signal composition.
+- **Roots:** `spectro-` `metr-` `-er`
+
+---
+
+---
+
+## 10. Chemical Engineering & Processes
+
+### Distillation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *destillare* (to drip down, from *de* + *stillare*: to drip, from *stilla*: a drop)
+- **Meaning:** The process of purifying a liquid by vaporising it and then condensing the vapour, used to separate mixtures based on boiling points.
+- **Roots:** `distill-` `-ation`
+
+---
+
+### Polymerisation
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *poly* (many) + *meros* (part, share) + *-isation*
+- **Meaning:** A chemical reaction in which monomer molecules bond together to form polymer chains or three-dimensional networks.
+- **Roots:** `poly-` `mer-` `-isation`
+- **⚠ Spelling Trap:** British spelling: **-isation** not *-ization*. Root *mer-* keeps its 'e'. P-O-L-Y-M-E-R-I-S-A-T-I-O-N.
+
+---
+
+### Chromatography
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *khromatos* (of colour, from *khroma*: colour) + *graphein* (to write)
+- **Meaning:** A laboratory technique for separating mixtures by passing them through a medium in which different components move at different rates.
+- **Roots:** `chromato-` `graph-` `-y`
+- **⚠ Spelling Trap:** The 'ch' at the start is Greek. Suffix is **-graphy**, not *-grafy*. C-H-R-O-M-A-T-O-G-R-A-P-H-Y.
+
+---
+
+### Thermolysis
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *thermos* (heat) + *lysis* (a loosening, from *lyein*: to loosen)
+- **Meaning:** The chemical decomposition of a compound caused by heat — breaking molecular bonds through thermal energy alone.
+- **Roots:** `thermo-` `lysis`
+
+---
+
+### Adsorption
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *ad* (to, toward) + *sorbere* (to suck up, absorb)
+- **Meaning:** The adhesion of atoms, ions, or molecules from a gas or liquid to a surface — distinct from absorption which involves bulk uptake.
+- **Roots:** `ad-` `sorpt-` `-ion`
+- **⚠ Spelling Trap:** **Ad-** not *ab-*. Adsorption = surface adhesion. Absorption = bulk uptake. A-D-S-O-R-P-T-I-O-N.
+
+---
+
+### Catalysis
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *katalysis* (dissolution, from *kata*: down + *lyein*: to loosen) — coined by Berzelius, 1835
+- **Meaning:** The acceleration of a chemical reaction by a substance (catalyst) that is not consumed in the process.
+- **Roots:** `cata-` `lysis`
+
+---
+
+### Exothermic
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *exo* (outside, out of) + *thermos* (heat) + *-ic*
+- **Meaning:** Describing a chemical reaction or process that releases energy to its surroundings in the form of heat.
+- **Roots:** `exo-` `therm-` `-ic`
+
+---
+
+### Endothermic
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *endo* (within, inside) + *thermos* (heat) + *-ic*
+- **Meaning:** Describing a chemical reaction or process that absorbs energy from its surroundings, causing the environment to cool.
+- **Roots:** `endo-` `therm-` `-ic`
+
+---
+
+### Sublimation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *sublimatio* (a lifting up, elevation, from *sublimare*: to elevate)
+- **Meaning:** The direct phase transition from solid to gas without passing through the liquid state — as in dry ice or iodine crystals.
+- **Roots:** `sublim-` `-ation`
+
+---
+
+### Electrophoresis
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *elektron* + *phoresis* (a carrying, from *pherein*: to carry)
+- **Meaning:** The migration of charged particles through a fluid under the influence of an electric field, used to separate DNA and proteins.
+- **Roots:** `electro-` `phores-` `-is`
+- **⚠ Spelling Trap:** Suffix is **-esis**, not *-isis* or *-sis*. E-L-E-C-T-R-O-P-H-O-R-E-S-I-S.
+
+---
+
+### Saponification
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *sapo* (soap, of Germanic origin) + *facere* (to make) + *-ification*
+- **Meaning:** The hydrolysis of an ester by a base to produce an alcohol and a salt of the acid — the chemical process of soap-making.
+- **Roots:** `sapon-` `-ification`
+- **⚠ Spelling Trap:** Sapon + **ification**. Never *-afication* or *-efication*. S-A-P-O-N-I-F-I-C-A-T-I-O-N.
+
+---
+
+### Pyrolysis
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *pyros* (fire, from *pyr*: fire) + *lysis* (a loosening)
+- **Meaning:** The thermal decomposition of materials at elevated temperatures in an inert atmosphere, producing char, oil, and gas.
+- **Roots:** `pyro-` `lysis`
+- **⚠ Spelling Trap:** The 'y' in *pyro-* is essential — never 'i'. Suffix **-lysis** not *-lisis*. P-Y-R-O-L-Y-S-I-S.
+
+---
+
+### Emulsification
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *emulgere* (to milk out, drain, from *ex* + *mulgere*: to milk) + *-ification*
+- **Meaning:** The process of turning immiscible liquids into a stable emulsion — uniformly dispersing one liquid within another.
+- **Roots:** `emulsif-` `-ication`
+- **⚠ Spelling Trap:** Emulsif + **ication**. Never *-afication*. E-M-U-L-S-I-F-I-C-A-T-I-O-N.
+
+---
+
+### Flocculation
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *flocculus* (a small tuft of wool, diminutive of *floccus*: lock of wool) + *-ation*
+- **Meaning:** The process by which fine particles in a liquid come together to form larger aggregates (flocs) that can be separated by settling.
+- **Roots:** `flocculat-` `-ion`
+- **⚠ Spelling Trap:** Double 'c' in *floccu-*. Ends in **-lation**, not *-lasion* or *-letion*. F-L-O-C-C-U-L-A-T-I-O-N.
+
+---
+
+### Depolymerisation
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *de* (reverse of) + Greek *poly* (many) + *meros* (part) + *-isation*
+- **Meaning:** The decomposition of a polymer into its monomer units or smaller fragments — the reverse of polymerisation.
+- **Roots:** `de-` `poly-` `mer-` `-isation`
+- **⚠ Spelling Trap:** British: **-isation** not *-ization*. Root *mer-* keeps its 'e'. D-E-P-O-L-Y-M-E-R-I-S-A-T-I-O-N.
+
+---
+
+### Permeation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *permeare* (to pass through, from *per* + *meare*: to go, pass)
+- **Meaning:** The passage of a substance through a membrane or porous material by diffusion, used in filtration and gas separation.
+- **Roots:** `perme-` `-ation`
+
+---
+
+### Alkylation
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Arabic *al-kuhl* (the kohl — fine powder) → alcohol → alkyl + *-ation*
+- **Meaning:** A chemical reaction that introduces an alkyl group into a compound, widely used in petroleum refining to produce high-octane fuel.
+- **Roots:** `alkyl-` `-ation`
+
+---
+
+### Rheology
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *rheos* (stream, flow, from *rhein*: to flow) + *logos* (word, study) — coined by Eugene Bingham, 1929
+- **Meaning:** The science of the flow and deformation of matter — especially liquids and soft solids — under applied forces.
+- **Roots:** `rheo-` `-logy`
+- **⚠ Spelling Trap:** The 'rh' start is unusual in English — never just 'r'. R-H-E-O-L-O-G-Y.
+
+---
+
+### Precipitation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *praecipitare* (to throw headlong, from *praeceps*: headlong, from *prae*: before + *caput*: head)
+- **Meaning:** The formation of an insoluble solid (precipitate) from a solution when a chemical reaction produces a compound that cannot dissolve.
+- **Roots:** `precipit-` `-ation`
+
+---
+
+### Stoichiometry
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *stoikheion* (element, basic component) + *metron* (measure)
+- **Meaning:** The calculation of the quantities of reactants and products in a chemical reaction based on the law of conservation of mass.
+- **Roots:** `stoichio-` `-metry`
+- **⚠ Spelling Trap:** Two hidden 'i's: S-T-O-**I**-C-H-**I**-O-M-E-T-R-Y. Say slowly: stoy-kee-OM-et-ree. The second 'i' after 'ch' is always dropped.
 
 ---
 
