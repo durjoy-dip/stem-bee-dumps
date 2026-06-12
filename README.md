@@ -2843,20 +2843,34 @@ Understanding these roots will help you spell hundreds of STEM words — includi
 | `bio-` | Greek | life | bioenergy, bioinformatics, biosynthesis |
 | `hydro-` | Greek | water | hydraulic, hydroelectric |
 | `piezo-` | Greek | press | piezoelectric, piezoresistivity |
-| `morph-` | Greek | form | polymorphism, anthropomorphic |
-| `chron-` | Greek | time | synchronisation, asynchronous |
+| `morph-` | Greek | form | polymorphism, anthropomorphic, neuromorphic |
+| `chron-` | Greek | time | synchronisation, asynchronous, eigenfrequency |
 | `geo-` | Greek | earth | geothermal, geospatial |
 | `astro-` | Greek | star | astrobiology, astrodynamics |
+| `graph-` | Greek | write/record | crystallography, photolithography, holography |
+| `syn-` | Greek | together | synchronisation, photosynthesis, biosynthesis |
+| `iso-` | Greek | equal/same | isomorphism, isotropy, isentropic |
+| `hetero-` | Greek | other/different | heterodyne, heterostructure, heterogeneous |
+| `poly-` | Greek | many | polymorphism, polynomial, polycrystalline |
+| `magnet-` | Greek | lodestone (from Magnesia) | electromagnetic, magnetoresistance, ferromagnetism |
+| `magneto-` | Greek | magnet | magnetomotive, magnetohydrodynamics, magnetosphere |
+| `metr-` | Greek | measure | spectrometer, polarimetry, accelerometer |
 | `ferro-` | Latin | iron | ferroelectric, ferromagnetism |
 | `semi-` | Latin | half | semiconductor |
 | `trans-` | Latin | across | transistor, transformer, transconductance |
 | `super-` | Latin | above | superconductor, supercapacitor |
-| `de-` | Latin | reverse/away | deconvolution, demodulation |
+| `de-` | Latin | reverse/away | deconvolution, demodulation, demagnetisation |
+| `conduct-` | Latin | lead/carry | semiconductor, superconductor, transconductance |
+| `re-` | Latin | again/back | recursion, rectifier, recombinant |
+| `lumin-` | Latin | light | luminescence, electroluminescence, cathodoluminescence |
+| `oscill-` | Latin | swing | oscilloscope, oscillation, oscillatory |
+| `volt-` | Latin/Italian | electric potential (Volta) | voltmeter, photovoltaic, overvoltage |
 | `eigen-` | German | own/characteristic | eigenvalue, eigenvector, eigenfrequency |
-| `-lysis` | Greek | loosening | electrolysis, photocatalysis |
+| `-lysis` | Greek | loosening | electrolysis, photocatalysis, pyrolysis |
 | `-metry` | Greek | measure | interferometry, telemetry, odometry |
+| `-logy` | Greek | study of | crystallography, tribology, astrobiology |
 | `-escence` | Latin | becoming | luminescence, electroluminescence |
-| `-isation` | Latin | process of making | synchronisation, polarisation |
+| `-isation` | Latin | process of making | synchronisation, polarisation, crystallisation |
 | `-ics` | Greek/Latin | field of study | photonics, cryogenics, spintronics |
 
 ---
