@@ -20,17 +20,17 @@ Each word entry includes:
 
 1. [Engineering & Electronics](#1-engineering--electronics) — 39 words
 2. [Physics & Mathematics](#2-physics--mathematics) — 40 words
-3. [Computing & Algorithms](#3-computing--algorithms) — 36 words
-4. [Robotics & Automation](#4-robotics--automation) — 38 words
-5. [Power Systems & Energy](#5-power-systems--energy) — 36 words
-6. [Semiconductors & Materials](#6-semiconductors--materials) — 35 words
+3. [Computing & Algorithms](#3-computing--algorithms) — 35 words
+4. [Robotics & Automation](#4-robotics--automation) — 37 words
+5. [Power Systems & Energy](#5-power-systems--energy) — 33 words
+6. [Semiconductors & Materials](#6-semiconductors--materials) — 34 words
 7. [Emerging & Interdisciplinary Tech](#7-emerging--interdisciplinary-tech) — 20 words
-8. [AI, Biotech & Space](#8-ai-biotech--space) — 20 words
+8. [AI, Biotech & Space](#8-ai-biotech--space) — 19 words
 9. [Communications & Signals](#9-communications--signals) — 20 words
 10. [Chemical Engineering & Processes](#10-chemical-engineering--processes) — 20 words
 11. [Data Science, Quantum & Security](#11-data-science-quantum--security) — 20 words
 
-**Total unique words: ~324**
+**Total unique words: ~317**
 
 
 ---
@@ -40,7 +40,7 @@ Each word entry includes:
 ## 1. Engineering & Electronics
 
 
-### Semiconductor
+### 1. Semiconductor
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *semi* (half) + *conductor*
 - **Meaning:** A material with electrical conductivity between a conductor and an insulator — the basis of all modern electronics.
@@ -49,7 +49,7 @@ Each word entry includes:
 
 ---
 
-### Capacitor
+### 2. Capacitor
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *capere* (to hold, seize)
 - **Meaning:** A device that stores electrical energy in an electric field between two conductive plates.
@@ -58,7 +58,7 @@ Each word entry includes:
 
 ---
 
-### Oscilloscope
+### 3. Oscilloscope
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *oscillare* (to swing) + Greek *skopein* (to examine)
 - **Meaning:** An instrument that displays electrical signal waveforms visually on a screen.
@@ -67,7 +67,7 @@ Each word entry includes:
 
 ---
 
-### Transistor
+### 4. Transistor
 - **Difficulty:** ★ Foundation
 - **Origin:** Portmanteau of *transfer* + *resistor* — coined at Bell Labs, 1948
 - **Meaning:** A semiconductor device used to amplify or switch electronic signals and electrical power.
@@ -75,7 +75,7 @@ Each word entry includes:
 
 ---
 
-### Impedance
+### 5. Impedance
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *impedire* (to hinder — literally "to shackle the feet")
 - **Meaning:** The total opposition a circuit presents to alternating current, combining resistance and reactance.
@@ -84,7 +84,7 @@ Each word entry includes:
 
 ---
 
-### Dielectric
+### 6. Dielectric
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *dia* (through, across) + *elektron* (amber)
 - **Meaning:** An insulating material that can be polarised by an electric field, used between capacitor plates.
@@ -93,7 +93,7 @@ Each word entry includes:
 
 ---
 
-### Thermocouple
+### 7. Thermocouple
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *thermos* (heat) + *couple*
 - **Meaning:** A sensor made of two dissimilar metals joined at a point, producing a voltage proportional to temperature difference.
@@ -102,7 +102,7 @@ Each word entry includes:
 
 ---
 
-### Piezoelectric
+### 8. Piezoelectric
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *piezein* (to press, squeeze) + *elektron* (amber)
 - **Meaning:** The property of certain materials to generate an electric charge in response to applied mechanical stress.
@@ -111,7 +111,7 @@ Each word entry includes:
 
 ---
 
-### Rectifier
+### 9. Rectifier
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *rectus* (straight) + *facere* (to make)
 - **Meaning:** A device that converts alternating current (AC) into direct current (DC).
@@ -120,7 +120,7 @@ Each word entry includes:
 
 ---
 
-### Inductance
+### 10. Inductance
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *inducere* (to lead into)
 - **Meaning:** The property of a conductor by which a change in current induces an electromotive force in that or a nearby conductor.
@@ -128,7 +128,7 @@ Each word entry includes:
 
 ---
 
-### Photovoltaic
+### 11. Photovoltaic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *photos* (light) + Alessandro *Volta* (Italian physicist) + *-ic*
 - **Meaning:** The process by which solar cells convert sunlight directly into electricity using semiconductor materials.
@@ -137,7 +137,7 @@ Each word entry includes:
 
 ---
 
-### Resonance
+### 12. Resonance
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *resonare* (to resound, echo back)
 - **Meaning:** The tendency of a system to oscillate with greater amplitude at certain frequencies than at others.
@@ -145,7 +145,7 @@ Each word entry includes:
 
 ---
 
-### Schematic
+### 13. Schematic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *skhema* (form, figure, shape)
 - **Meaning:** A diagram representing the elements of a system using abstract graphic symbols rather than realistic depictions.
@@ -153,7 +153,7 @@ Each word entry includes:
 
 ---
 
-### Electrode
+### 14. Electrode
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *elektron* (amber) + *hodos* (way, path)
 - **Meaning:** A conductor through which electricity enters or leaves an electrolyte, semiconductor, or other medium.
@@ -162,7 +162,7 @@ Each word entry includes:
 
 ---
 
-### Multiplexer
+### 15. Multiplexer
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *multiplex* (manifold, many-fold)
 - **Meaning:** A device that selects between several input signals and forwards one into a single output line.
@@ -171,7 +171,7 @@ Each word entry includes:
 
 ---
 
-### Superconductor
+### 16. Superconductor
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *super* (above, beyond) + *conductor*
 - **Meaning:** A material that conducts electricity with exactly zero electrical resistance when cooled below a critical temperature.
@@ -179,7 +179,7 @@ Each word entry includes:
 
 ---
 
-### Electromagnetic
+### 17. Electromagnetic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *elektron* + *magnes* (from Magnesia, a region in ancient Greece)
 - **Meaning:** Relating to the interrelated electric and magnetic fields produced by the motion of electric charges.
@@ -187,7 +187,7 @@ Each word entry includes:
 
 ---
 
-### Voltmeter
+### 18. Voltmeter
 - **Difficulty:** ★ Foundation
 - **Origin:** Alessandro *Volta* (inventor) + Greek *metron* (measure)
 - **Meaning:** An instrument used for measuring electric potential difference (voltage) between two points in a circuit.
@@ -195,7 +195,7 @@ Each word entry includes:
 
 ---
 
-### Ohmmeter
+### 19. Ohmmeter
 - **Difficulty:** ★ Foundation
 - **Origin:** *Georg Ohm* (German physicist) + Greek *metron* (measure)
 - **Meaning:** An instrument for measuring electrical resistance in a circuit component or material.
@@ -203,7 +203,7 @@ Each word entry includes:
 
 ---
 
-### Electrochemical
+### 20. Electrochemical
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *elektron* + *khemeia* (alchemy, from *kheein*: to pour)
 - **Meaning:** Relating to chemical reactions that involve the transfer of electrons between substances, as in batteries and electroplating.
@@ -211,7 +211,7 @@ Each word entry includes:
 
 ---
 
-### Demodulation
+### 21. Demodulation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *de* (reverse of) + *modulari* (to measure, regulate, from *modulus*: small measure)
 - **Meaning:** The process of extracting the original information-bearing signal from a modulated carrier wave.
@@ -219,7 +219,7 @@ Each word entry includes:
 
 ---
 
-### Heterodyne
+### 22. Heterodyne
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *heteros* (other, different) + *dynamis* (power, force)
 - **Meaning:** A signal processing technique that creates new frequencies by mixing two oscillating signals together.
@@ -228,7 +228,7 @@ Each word entry includes:
 
 ---
 
-### Transimpedance
+### 23. Transimpedance
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *trans* (across) + *impedire* (to hinder) + *-ance*
 - **Meaning:** A measure of how effectively a circuit converts an input current into an output voltage.
@@ -236,7 +236,7 @@ Each word entry includes:
 
 ---
 
-### Hysteresis
+### 24. Hysteresis
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *hysteresis* (a coming short, deficiency, from *hysteros*: later, behind)
 - **Meaning:** The dependence of a system's state on its history — the lag between cause and effect, as seen in magnetic materials.
@@ -245,7 +245,7 @@ Each word entry includes:
 
 ---
 
-### Deconvolution
+### 25. Deconvolution
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *de* (reverse) + *convolvere* (to roll together, entwine)
 - **Meaning:** A mathematical process used to reverse the effects of convolution on a recorded signal.
@@ -254,7 +254,7 @@ Each word entry includes:
 
 ---
 
-### Electromigration
+### 26. Electromigration
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *elektron* + Latin *migrare* (to move from one place to another)
 - **Meaning:** The gradual displacement of metal atoms in a conductor caused by momentum transfer from conducting electrons.
@@ -263,7 +263,7 @@ Each word entry includes:
 
 ---
 
-### Piezoresistivity
+### 27. Piezoresistivity
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *piezein* (to press) + Latin *resistere* (to stand against) + *-ivity*
 - **Meaning:** The change in electrical resistivity of a material when mechanical stress is applied to it.
@@ -272,7 +272,7 @@ Each word entry includes:
 
 ---
 
-### Photolithographic
+### 28. Photolithographic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *photos* (light) + *lithos* (stone) + *graphein* (to write) + *-ic*
 - **Meaning:** Relating to the process of using light to transfer patterns onto semiconductor substrates during chip fabrication.
@@ -280,7 +280,7 @@ Each word entry includes:
 
 ---
 
-### Interferometry
+### 29. Interferometry
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *interferere* (to strike between) + Greek *metron* (measure)
 - **Meaning:** The technique of using wave interference patterns to make precise measurements of length, surface irregularities, or refractive indices.
@@ -289,7 +289,7 @@ Each word entry includes:
 
 ---
 
-### Electroluminescence
+### 30. Electroluminescence
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *elektron* + Latin *lumen* (light) + *-escence* (process of becoming)
 - **Meaning:** The emission of light from a material in response to an electric current or strong electric field.
@@ -298,7 +298,7 @@ Each word entry includes:
 
 ---
 
-### Magnetoresistance
+### 31. Magnetoresistance
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *magnets* (lodestone) + Latin *resistere* (to stand against) + *-ance*
 - **Meaning:** The change in electrical resistance of a material when it is exposed to an external magnetic field.
@@ -307,7 +307,7 @@ Each word entry includes:
 
 ---
 
-### Autotransformer
+### 32. Autotransformer
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *autos* (self) + Latin *transformare* (to change shape)
 - **Meaning:** A type of transformer with a single winding that acts as both primary and secondary coil, used to step voltage up or down.
@@ -315,7 +315,7 @@ Each word entry includes:
 
 ---
 
-### Commutation
+### 33. Commutation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *commutare* (to change entirely, from *com* + *mutare*: to change)
 - **Meaning:** The process of switching current direction in DC motors using a commutator to maintain unidirectional rotation.
@@ -323,7 +323,7 @@ Each word entry includes:
 
 ---
 
-### Bimetallic
+### 34. Bimetallic
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *bi* (two) + *metallum* (metal, from Greek *metallon*: mine, quarry)
 - **Meaning:** Consisting of two different metals bonded together; bends when heated due to differing thermal expansion rates.
@@ -331,7 +331,7 @@ Each word entry includes:
 
 ---
 
-### Galvanometer
+### 35. Galvanometer
 - **Difficulty:** ★★ Medium
 - **Origin:** *Luigi Galvani* (Italian physicist, discoverer of bioelectricity) + Greek *metron* (measure)
 - **Meaning:** A sensitive instrument for detecting and measuring small electric currents by deflection of a magnetic needle.
@@ -339,7 +339,7 @@ Each word entry includes:
 
 ---
 
-### Transconductance
+### 36. Transconductance
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *trans* (across) + *conducere* (to lead together) + *-ance*
 - **Meaning:** A measure of how effectively a transistor converts changes in input voltage into changes in output current.
@@ -348,7 +348,7 @@ Each word entry includes:
 
 ---
 
-### Polarisation
+### 37. Polarisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *polus* (axis, pole) + Latin *-isation* (process of making)
 - **Meaning:** The orientation of oscillations of a transverse wave — especially the direction of the electric field vector in light or radio waves.
@@ -356,7 +356,7 @@ Each word entry includes:
 
 ---
 
-### Varistor
+### 38. Varistor
 - **Difficulty:** ★★ Medium
 - **Origin:** Portmanteau of *variable* + *resistor* — coined in electrical engineering
 - **Meaning:** A resistor whose resistance varies significantly with applied voltage, used to protect circuits from voltage spikes.
@@ -364,7 +364,7 @@ Each word entry includes:
 
 ---
 
-### Demagnetisation
+### 39. Demagnetisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *de* (reverse of) + Greek *magnets* (lodestone) + *-isation*
 - **Meaning:** The process of removing or reducing the magnetism of a material by applying a reverse or alternating magnetic field.
@@ -378,7 +378,7 @@ Each word entry includes:
 ## 2. Physics & Mathematics
 
 
-### Thermodynamics
+### 40. Thermodynamics
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *thermos* (heat) + *dynamis* (power, force)
 - **Meaning:** The branch of physics that deals with the relationships between heat and other forms of energy.
@@ -387,7 +387,7 @@ Each word entry includes:
 
 ---
 
-### Quantum
+### 41. Quantum
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *quantus* (how much, how great)
 - **Meaning:** The minimum discrete unit of any physical property, especially energy. Central to modern physics.
@@ -395,7 +395,7 @@ Each word entry includes:
 
 ---
 
-### Refraction
+### 42. Refraction
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *refractus* (broken up, past participle of *refringere*)
 - **Meaning:** The bending of a wave — light or sound — as it passes from one medium into another of different density.
@@ -404,7 +404,7 @@ Each word entry includes:
 
 ---
 
-### Diffraction
+### 43. Diffraction
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *diffractus* (broken apart, scattered)
 - **Meaning:** The bending and spreading of waves around obstacles or through narrow openings.
@@ -412,7 +412,7 @@ Each word entry includes:
 
 ---
 
-### Frequency
+### 44. Frequency
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *frequentia* (a crowd, a crowding together)
 - **Meaning:** The number of occurrences of a repeating event per unit of time, measured in Hertz (Hz).
@@ -421,7 +421,7 @@ Each word entry includes:
 
 ---
 
-### Acceleration
+### 45. Acceleration
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *accelerare* (to hasten, from *celer*: swift)
 - **Meaning:** The rate of change of velocity of an object with respect to time.
@@ -429,7 +429,7 @@ Each word entry includes:
 
 ---
 
-### Momentum
+### 46. Momentum
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *movimentum* (movement, from *movere*: to move)
 - **Meaning:** The quantity of motion of a moving body — the product of its mass and velocity.
@@ -437,7 +437,7 @@ Each word entry includes:
 
 ---
 
-### Trajectory
+### 47. Trajectory
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *trajectus* (thrown across, from *trans* + *jacere*: to throw)
 - **Meaning:** The curved path followed by a projectile or object moving under the action of applied forces.
@@ -446,7 +446,7 @@ Each word entry includes:
 
 ---
 
-### Permittivity
+### 48. Permittivity
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *permittere* (to allow through, to let pass)
 - **Meaning:** A measure of how much resistance an electric field encounters when forming in a medium.
@@ -454,7 +454,7 @@ Each word entry includes:
 
 ---
 
-### Permeability
+### 49. Permeability
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *permeabilis* (that can be passed through)
 - **Meaning:** The degree to which a material allows magnetic field lines to pass through it.
@@ -462,7 +462,7 @@ Each word entry includes:
 
 ---
 
-### Hypothesis
+### 50. Hypothesis
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *hypo* (under, beneath) + *thesis* (a placing, a proposition)
 - **Meaning:** A proposed explanation for a phenomenon, made as a starting point for further investigation.
@@ -471,7 +471,7 @@ Each word entry includes:
 
 ---
 
-### Derivative
+### 51. Derivative
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *derivare* (to lead away, draw off from a source)
 - **Meaning:** A measure of how a function changes as its input changes — the instantaneous rate of change.
@@ -479,7 +479,7 @@ Each word entry includes:
 
 ---
 
-### Integral
+### 52. Integral
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *integralis* (whole, entire, from *integer*: untouched)
 - **Meaning:** A mathematical object representing area under a curve or the reverse operation of differentiation.
@@ -487,7 +487,7 @@ Each word entry includes:
 
 ---
 
-### Polynomial
+### 53. Polynomial
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *poly* (many) + Latin *nomen* (name, term)
 - **Meaning:** An algebraic expression consisting of multiple terms combined by addition or subtraction.
@@ -496,7 +496,7 @@ Each word entry includes:
 
 ---
 
-### Asymptote
+### 54. Asymptote
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *asymptōtos* (not falling together: *a* + *syn* + *piptein*)
 - **Meaning:** A line that a curve approaches but never quite reaches as it extends to infinity.
@@ -505,7 +505,7 @@ Each word entry includes:
 
 ---
 
-### Logarithm
+### 55. Logarithm
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *logos* (ratio, word) + *arithmos* (number)
 - **Meaning:** The power to which a base must be raised to produce a given number. The inverse of exponentiation.
@@ -514,7 +514,7 @@ Each word entry includes:
 
 ---
 
-### Coefficient
+### 56. Coefficient
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *co* (together) + *efficientem* (working, accomplishing)
 - **Meaning:** A numerical or constant quantity placed before a variable in an algebraic expression.
@@ -523,7 +523,7 @@ Each word entry includes:
 
 ---
 
-### Eigenvalue
+### 57. Eigenvalue
 - **Difficulty:** ★ Foundation
 - **Origin:** German *eigen* (own, characteristic) + Latin *valere* (to be worth)
 - **Meaning:** A special scalar associated with a linear transformation — the factor by which an eigenvector is scaled.
@@ -531,7 +531,7 @@ Each word entry includes:
 
 ---
 
-### Permutation
+### 58. Permutation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *permutare* (to change thoroughly, from *per* + *mutare*)
 - **Meaning:** An arrangement of all members of a set into a sequence or order.
@@ -540,7 +540,7 @@ Each word entry includes:
 
 ---
 
-### Circumference
+### 59. Circumference
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *circum* (around) + *ferre* (to carry, to bear)
 - **Meaning:** The distance around the outside of a circle — equal to 2πr.
@@ -548,7 +548,7 @@ Each word entry includes:
 
 ---
 
-### Eigenvector
+### 60. Eigenvector
 - **Difficulty:** ★★★ Hard
 - **Origin:** German *eigen* (own, characteristic) + Latin *vector* (carrier, from *vehere*: to carry)
 - **Meaning:** A non-zero vector that only changes by a scalar factor when a linear transformation is applied to it.
@@ -556,7 +556,7 @@ Each word entry includes:
 
 ---
 
-### Superposition
+### 61. Superposition
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *super* (above) + *positio* (a placing, from *ponere*: to place)
 - **Meaning:** The principle that two or more waves overlapping in space produce a resultant wave equal to their sum.
@@ -565,7 +565,7 @@ Each word entry includes:
 
 ---
 
-### Annihilation
+### 62. Annihilation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *annihilare* (to reduce to nothing, from *ad* + *nihil*: nothing)
 - **Meaning:** The process in which a particle and its antiparticle collide and are converted entirely into energy.
@@ -574,7 +574,7 @@ Each word entry includes:
 
 ---
 
-### Schwarzschild
+### 63. Schwarzschild
 - **Difficulty:** ★★★ Hard
 - **Origin:** German: *Schwarz* (black) + *Schild* (shield) — named after physicist Karl Schwarzschild
 - **Meaning:** Relating to the Schwarzschild radius — the critical radius at which a mass becomes a black hole.
@@ -582,7 +582,7 @@ Each word entry includes:
 
 ---
 
-### Isomorphism
+### 64. Isomorphism
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *isos* (equal, same) + *morphe* (form, shape) + *-ism*
 - **Meaning:** A structure-preserving mapping between two mathematical structures showing they are fundamentally identical.
@@ -591,7 +591,7 @@ Each word entry includes:
 
 ---
 
-### Renormalisation
+### 65. Renormalisation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *re* (again) + *norma* (rule, pattern) + *-isation*
 - **Meaning:** A technique in quantum field theory to remove infinities from calculations by redefining physical quantities.
@@ -600,7 +600,7 @@ Each word entry includes:
 
 ---
 
-### Bifurcation
+### 66. Bifurcation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *bifurcare* (to divide into two forks, from *bi*: two + *furca*: fork)
 - **Meaning:** The splitting of a dynamical system's behaviour into two distinct states as a parameter is varied.
@@ -609,7 +609,7 @@ Each word entry includes:
 
 ---
 
-### Stochastic
+### 67. Stochastic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *stokhastikos* (able to guess, from *stokhos*: target, aim)
 - **Meaning:** Randomly determined — describing systems or processes analysed using probability theory.
@@ -618,7 +618,7 @@ Each word entry includes:
 
 ---
 
-### Schrödinger
+### 68. Schrödinger
 - **Difficulty:** ★★★ Hard
 - **Origin:** German surname — Erwin Schrödinger, Austrian physicist
 - **Meaning:** Relating to Schrödinger's equation — the fundamental equation describing how quantum states evolve over time.
@@ -626,7 +626,7 @@ Each word entry includes:
 
 ---
 
-### Perturbation
+### 69. Perturbation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *perturbare* (to disturb thoroughly, from *per* + *turbare*: to disorder)
 - **Meaning:** A small disturbance or deviation from a system's equilibrium, used in approximation methods in physics.
@@ -635,7 +635,7 @@ Each word entry includes:
 
 ---
 
-### Wronskian
+### 70. Wronskian
 - **Difficulty:** ★★★ Hard
 - **Origin:** Named after Józef Hoene-Wroński, Polish mathematician — suffix *-ian*
 - **Meaning:** A determinant used to determine whether a set of solutions to a differential equation are linearly independent.
@@ -643,7 +643,7 @@ Each word entry includes:
 
 ---
 
-### Hamiltonian
+### 71. Hamiltonian
 - **Difficulty:** ★★★ Hard
 - **Origin:** Named after Sir William Rowan Hamilton, Irish mathematician — suffix *-ian*
 - **Meaning:** The operator corresponding to the total energy of a quantum system, central to quantum mechanics.
@@ -651,7 +651,7 @@ Each word entry includes:
 
 ---
 
-### Divergence
+### 72. Divergence
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *divergere* (to bend apart, from *di* + *vergere*: to incline, turn)
 - **Meaning:** A vector operator that measures the magnitude of a vector field's source or sink at a given point.
@@ -660,7 +660,7 @@ Each word entry includes:
 
 ---
 
-### Isentropic
+### 73. Isentropic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *isos* (equal) + *entropia* (a turning toward, from *en* + *tropos*: turn) + *-ic*
 - **Meaning:** Relating to a thermodynamic process that is both adiabatic and reversible, with constant entropy.
@@ -668,7 +668,7 @@ Each word entry includes:
 
 ---
 
-### Eigenfunction
+### 74. Eigenfunction
 - **Difficulty:** ★★★ Hard
 - **Origin:** German *eigen* (own, characteristic) + Latin *functio* (performance, from *fungi*: to perform)
 - **Meaning:** A function that returns a scalar multiple of itself when a given linear operator is applied to it.
@@ -676,7 +676,7 @@ Each word entry includes:
 
 ---
 
-### Tessellation
+### 75. Tessellation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *tessella* (small square tile, diminutive of *tessera*: square piece) + *-ation*
 - **Meaning:** The tiling of a plane using one or more geometric shapes with no overlaps and no gaps.
@@ -685,7 +685,7 @@ Each word entry includes:
 
 ---
 
-### Boltzmann
+### 76. Boltzmann
 - **Difficulty:** ★★★ Hard
 - **Origin:** German surname — Ludwig Boltzmann, Austrian physicist
 - **Meaning:** Relating to the Boltzmann constant — a fundamental constant linking temperature to energy at the particle level.
@@ -693,7 +693,7 @@ Each word entry includes:
 
 ---
 
-### Lagrangian
+### 77. Lagrangian
 - **Difficulty:** ★★★ Hard
 - **Origin:** Named after Joseph-Louis Lagrange, French-Italian mathematician — suffix *-ian*
 - **Meaning:** A function representing the difference between kinetic and potential energy, used to derive equations of motion.
@@ -701,7 +701,7 @@ Each word entry includes:
 
 ---
 
-### Quaternion
+### 78. Quaternion
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *quaternio* (a group of four, from *quattuor*: four)
 - **Meaning:** A number system that extends complex numbers using four components, used in 3D rotation calculations.
@@ -710,7 +710,7 @@ Each word entry includes:
 
 ---
 
-### Isotropy
+### 79. Isotropy
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *isos* (equal) + *tropos* (turn, direction)
 - **Meaning:** The property of a medium being identical in all directions — the opposite of anisotropy.
@@ -723,7 +723,7 @@ Each word entry includes:
 ## 3. Computing & Algorithms
 
 
-### Algorithm
+### 80. Algorithm
 - **Difficulty:** ★ Foundation
 - **Origin:** Latinised form of Persian mathematician *Al-Khwārizmī*'s name (9th century)
 - **Meaning:** A step-by-step procedure or set of rules for solving a problem or accomplishing a task.
@@ -732,7 +732,7 @@ Each word entry includes:
 
 ---
 
-### Recursion
+### 81. Recursion
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *recursio* (a running back, from *re* + *currere*: to run)
 - **Meaning:** A method where a function calls itself as a subroutine, solving a problem by reducing it to smaller instances.
@@ -741,7 +741,7 @@ Each word entry includes:
 
 ---
 
-### Polymorphism
+### 82. Polymorphism
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *poly* (many) + *morphe* (form, shape) + *-ism*
 - **Meaning:** The ability of a single interface to represent different underlying forms, fundamental to OOP design.
@@ -750,7 +750,7 @@ Each word entry includes:
 
 ---
 
-### Encapsulation
+### 83. Encapsulation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *en* (in) + *capsula* (small box, from *capsa*: case)
 - **Meaning:** Bundling data and its associated methods into a single unit while hiding internal implementation details.
@@ -759,7 +759,7 @@ Each word entry includes:
 
 ---
 
-### Abstraction
+### 84. Abstraction
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *abstractus* (drawn away, past participle of *abstrahere*)
 - **Meaning:** The process of hiding complex implementation details and showing only essential features.
@@ -767,7 +767,7 @@ Each word entry includes:
 
 ---
 
-### Concurrency
+### 85. Concurrency
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *concurrere* (to run together, from *con* + *currere*)
 - **Meaning:** The ability of a system to handle multiple tasks simultaneously or in overlapping time periods.
@@ -775,7 +775,7 @@ Each word entry includes:
 
 ---
 
-### Hexadecimal
+### 86. Hexadecimal
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *hexa* (six) + Latin *decimus* (tenth) + *-alis* (relating to)
 - **Meaning:** A base-16 number system using digits 0–9 and letters A–F, widely used in computing and memory addressing.
@@ -784,7 +784,7 @@ Each word entry includes:
 
 ---
 
-### Parallelism
+### 87. Parallelism
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *parallelos* (beside one another, from *para* + *allelon*)
 - **Meaning:** The simultaneous execution of multiple computations to improve processing speed.
@@ -792,7 +792,7 @@ Each word entry includes:
 
 ---
 
-### Deterministic
+### 88. Deterministic
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *determinare* (to fix the boundaries of, from *de* + *terminus*)
 - **Meaning:** Describing a system that produces the same output for a given input every time, with no randomness.
@@ -800,7 +800,7 @@ Each word entry includes:
 
 ---
 
-### Heuristic
+### 89. Heuristic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *heuriskein* (to find, to discover) — same root as *Eureka!*
 - **Meaning:** A practical problem-solving approach that produces a good-enough solution when an exact one is impractical.
@@ -809,7 +809,7 @@ Each word entry includes:
 
 ---
 
-### Bandwidth
+### 90. Bandwidth
 - **Difficulty:** ★ Foundation
 - **Origin:** Old English *band* + *width* — coined in telecommunications
 - **Meaning:** The maximum rate of data transfer across a network or communications channel, measured in bits per second.
@@ -817,7 +817,7 @@ Each word entry includes:
 
 ---
 
-### Cryptography
+### 91. Cryptography
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *kryptos* (hidden, secret) + *graphein* (to write)
 - **Meaning:** The practice of securing communications by transforming data into an unreadable format using algorithms.
@@ -825,7 +825,7 @@ Each word entry includes:
 
 ---
 
-### Synchronisation
+### 92. Synchronisation
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *syn* (together) + *khronos* (time)
 - **Meaning:** The coordination of events to operate in time with each other, ensuring processes share resources without conflict.
@@ -834,7 +834,7 @@ Each word entry includes:
 
 ---
 
-### Middleware
+### 93. Middleware
 - **Difficulty:** ★ Foundation
 - **Origin:** *Middle* (between) + *ware* (Old English: goods, article) — coined in software engineering
 - **Meaning:** Software that acts as a bridge between an operating system and the applications running on it.
@@ -842,7 +842,7 @@ Each word entry includes:
 
 ---
 
-### Fibonacci
+### 94. Fibonacci
 - **Difficulty:** ★ Foundation
 - **Origin:** Italian: *filius Bonacci* (son of Bonacci) — nickname of Leonardo of Pisa
 - **Meaning:** A sequence where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8…
@@ -850,7 +850,7 @@ Each word entry includes:
 
 ---
 
-### Debugging
+### 95. Debugging
 - **Difficulty:** ★ Foundation
 - **Origin:** *De-* (remove) + *bug* — Admiral Grace Hopper found a literal moth in a relay in 1947
 - **Meaning:** The process of identifying and removing errors or defects from software code.
@@ -858,7 +858,7 @@ Each word entry includes:
 
 ---
 
-### Throughput
+### 96. Throughput
 - **Difficulty:** ★ Foundation
 - **Origin:** Old English *thurh* (through) + *putian* (to place)
 - **Meaning:** The amount of data successfully transmitted or processed in a given period of time.
@@ -866,7 +866,7 @@ Each word entry includes:
 
 ---
 
-### Serialisation
+### 97. Serialisation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *serialis* (of a series, from *series*: row, chain)
 - **Meaning:** The process of converting an object into a storable or transmittable format that can later be reconstructed.
@@ -874,7 +874,7 @@ Each word entry includes:
 
 ---
 
-### Interpolation
+### 98. Interpolation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *interpolare* (to furbish, alter, from *inter* + *polire*: to polish)
 - **Meaning:** Estimating unknown values that fall between known data points in a dataset.
@@ -883,7 +883,7 @@ Each word entry includes:
 
 ---
 
-### Optimisation
+### 99. Optimisation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *optimus* (the best, superlative of *bonus*: good)
 - **Meaning:** The process of making a system, design, or algorithm as effective or functional as possible.
@@ -891,7 +891,7 @@ Each word entry includes:
 
 ---
 
-### Memoisation
+### 100. Memoisation
 - **Origin:** Latin *memorare* (to remember, from *memor*: mindful) — coined in computing by Donald Michie, 1968
 - **Meaning:** An optimisation technique that caches the results of expensive function calls and returns the cached result when the same inputs occur again.
 - **Roots:** `memor-` `-isation`
@@ -899,7 +899,7 @@ Each word entry includes:
 
 ---
 
-### Idempotent
+### 101. Idempotent
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *idem* (the same) + *potens* (capable, from *posse*: to be able)
 - **Meaning:** Describing an operation that produces the same result no matter how many times it is applied.
@@ -908,7 +908,7 @@ Each word entry includes:
 
 ---
 
-### Isomorphic
+### 102. Isomorphic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *isos* (equal) + *morphe* (form) + *-ic*
 - **Meaning:** Describing code that can run identically on both server and client environments without modification.
@@ -916,7 +916,7 @@ Each word entry includes:
 
 ---
 
-### Obfuscation
+### 103. Obfuscation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *obfuscare* (to darken, obscure, from *ob* + *fuscus*: dark, dusky)
 - **Meaning:** The deliberate practice of making code difficult to understand to protect intellectual property.
@@ -925,7 +925,7 @@ Each word entry includes:
 
 ---
 
-### Deadlock
+### 104. Deadlock
 - **Difficulty:** ★★ Medium
 - **Origin:** Old English *dead* + *loc* — coined in operating systems theory
 - **Meaning:** A situation where two or more processes each wait for resources held by the other, causing all to halt indefinitely.
@@ -933,7 +933,7 @@ Each word entry includes:
 
 ---
 
-### Nondeterministic
+### 105. Nondeterministic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *non* (not) + *de* + *terminus* (boundary, limit) + *-istic*
 - **Meaning:** Describing an algorithm or system that may produce different outputs for the same input.
@@ -942,7 +942,7 @@ Each word entry includes:
 
 ---
 
-### Reentrancy
+### 106. Reentrancy
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *re* (again) + *entrare* (to enter, from *intra*: within) + *-ancy*
 - **Meaning:** The property of a function that allows it to be safely interrupted and called again before completing.
@@ -951,7 +951,7 @@ Each word entry includes:
 
 ---
 
-### Microarchitecture
+### 107. Microarchitecture
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *mikros* (small) + Latin *architectura* (building art, from *arkhitekton*: master builder)
 - **Meaning:** The detailed internal organisation of a processor — how hardware implements an instruction set architecture.
@@ -959,7 +959,7 @@ Each word entry includes:
 
 ---
 
-### Virtualisation
+### 108. Virtualisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *virtualis* (potential, effective, from *virtus*: excellence) + *-isation*
 - **Meaning:** The creation of a virtual version of something — hardware, OS, storage — allowing multiple systems to share physical resources.
@@ -967,7 +967,7 @@ Each word entry includes:
 
 ---
 
-### Disambiguation
+### 109. Disambiguation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *dis* (apart) + *ambiguus* (uncertain, from *ambi*: both ways + *agere*: to drive) + *-ation*
 - **Meaning:** The process of resolving conflicts when a word, symbol, or reference has multiple possible interpretations.
@@ -976,7 +976,7 @@ Each word entry includes:
 
 ---
 
-### Metaprogramming
+### 110. Metaprogramming
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *meta* (beyond, after, about) + Latin *programma* (public notice) + *-ing*
 - **Meaning:** Writing code that treats other code as its data — programs that write or manipulate other programs.
@@ -985,7 +985,7 @@ Each word entry includes:
 
 ---
 
-### Deduplication
+### 111. Deduplication
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *de* (reverse) + *duplicare* (to double, from *duplex*: twofold) + *-ation*
 - **Meaning:** The process of eliminating redundant copies of data to reduce storage space and improve efficiency.
@@ -993,7 +993,7 @@ Each word entry includes:
 
 ---
 
-### Tokenisation
+### 112. Tokenisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Old English *tacen* (sign, mark) + Latin *-isation*
 - **Meaning:** The process of breaking a stream of text into individual meaningful units called tokens, used in compilers and NLP.
@@ -1001,7 +1001,7 @@ Each word entry includes:
 
 ---
 
-### Concatenation
+### 113. Concatenation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *concatenare* (to link together in a chain, from *con* + *catena*: chain)
 - **Meaning:** The operation of joining two or more strings, arrays, or sequences end-to-end into a single unit.
@@ -1010,7 +1010,7 @@ Each word entry includes:
 
 ---
 
-### Asynchronous
+### 114. Asynchronous
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *a* (not) + *syn* (together) + *khronos* (time) + *-ous*
 - **Meaning:** Describing operations that occur independently of the main program flow, not waiting for each task to complete.
@@ -1024,7 +1024,7 @@ Each word entry includes:
 ## 4. Robotics & Automation
 
 
-### Actuator
+### 115. Actuator
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *actuare* (to put into action, from *actus*: a doing)
 - **Meaning:** A mechanical device that converts energy into motion, enabling a robot or machine to interact with its environment.
@@ -1033,7 +1033,7 @@ Each word entry includes:
 
 ---
 
-### Teleoperation
+### 116. Teleoperation
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *tele* (far off, at a distance) + Latin *operari* (to work)
 - **Meaning:** The control of a machine or robot from a distance, often via radio signals or a network connection.
@@ -1042,7 +1042,7 @@ Each word entry includes:
 
 ---
 
-### Kinematics
+### 117. Kinematics
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *kinema* (movement, from *kinein*: to move)
 - **Meaning:** The branch of mechanics concerned with the motion of objects without reference to the forces causing the motion.
@@ -1051,7 +1051,7 @@ Each word entry includes:
 
 ---
 
-### Servomechanism
+### 118. Servomechanism
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *servus* (slave, servant) + Greek *mekhane* (machine)
 - **Meaning:** An automatic device that uses error-sensing feedback to correct the performance of a mechanism.
@@ -1060,7 +1060,7 @@ Each word entry includes:
 
 ---
 
-### Proprioception
+### 119. Proprioception
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *proprius* (one's own) + *capio* (to take, perceive)
 - **Meaning:** A robot's or organism's ability to sense the position and movement of its own body parts.
@@ -1069,7 +1069,7 @@ Each word entry includes:
 
 ---
 
-### Manipulator
+### 120. Manipulator
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *manipulus* (handful, from *manus*: hand + *plere*: to fill)
 - **Meaning:** A robotic arm or device designed to handle, move, or assemble objects in place of a human hand.
@@ -1077,7 +1077,7 @@ Each word entry includes:
 
 ---
 
-### Gyroscope
+### 121. Gyroscope
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *gyros* (circle, ring) + *skopein* (to look, to observe)
 - **Meaning:** A device used to measure or maintain orientation and angular velocity in robots and aircraft.
@@ -1086,7 +1086,7 @@ Each word entry includes:
 
 ---
 
-### Accelerometer
+### 122. Accelerometer
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *accelerare* (to hasten) + Greek *metron* (measure)
 - **Meaning:** A sensor that measures proper acceleration, used in robots and devices to detect movement and orientation.
@@ -1094,7 +1094,7 @@ Each word entry includes:
 
 ---
 
-### Effector
+### 123. Effector
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *efficere* (to accomplish, bring about, from *ex* + *facere*)
 - **Meaning:** The end component of a robotic arm — any tool or device attached to perform a specific task.
@@ -1102,7 +1102,7 @@ Each word entry includes:
 
 ---
 
-### Autonomous
+### 124. Autonomous
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *autonomos* (having its own laws, from *autos*: self + *nomos*: law)
 - **Meaning:** Capable of operating independently without human control, using onboard sensors and decision-making.
@@ -1111,7 +1111,7 @@ Each word entry includes:
 
 ---
 
-### Calibration
+### 125. Calibration
 - **Difficulty:** ★ Foundation
 - **Origin:** Arabic *qālib* (mould, pattern) via French *calibre*
 - **Meaning:** The process of configuring a sensor or instrument to provide results within an acceptable range of accuracy.
@@ -1119,7 +1119,7 @@ Each word entry includes:
 
 ---
 
-### Telemetry
+### 126. Telemetry
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *tele* (far) + *metron* (measure) + *-y*
 - **Meaning:** The automatic measurement and wireless transmission of data from remote sources to receiving equipment.
@@ -1127,7 +1127,7 @@ Each word entry includes:
 
 ---
 
-### Solenoid
+### 127. Solenoid
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *solen* (pipe, channel) + *eidos* (form, shape)
 - **Meaning:** A coil of wire that acts as a magnet when carrying an electric current, used as a switch or actuator.
@@ -1135,7 +1135,7 @@ Each word entry includes:
 
 ---
 
-### Proportional
+### 128. Proportional
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *proportionalis* (of like ratio, from *pro* + *portio*: share, part)
 - **Meaning:** Relating to control systems where the output is directly proportional to the error signal.
@@ -1143,7 +1143,7 @@ Each word entry includes:
 
 ---
 
-### Hydraulic
+### 129. Hydraulic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *hydraulikos* (of a water organ, from *hydro*: water + *aulos*: pipe)
 - **Meaning:** Relating to systems powered by pressurised liquid, commonly used in heavy robotic and industrial machinery.
@@ -1151,7 +1151,7 @@ Each word entry includes:
 
 ---
 
-### Pneumatic
+### 130. Pneumatic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *pneumatikos* (of wind or breath, from *pneuma*: wind, spirit)
 - **Meaning:** Relating to systems driven by compressed air or gas, used in robotic grippers and industrial automation.
@@ -1160,7 +1160,7 @@ Each word entry includes:
 
 ---
 
-### Odometry
+### 131. Odometry
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *hodos* (path, way) + *metron* (measure)
 - **Meaning:** The use of data from motion sensors to estimate a robot's change in position over time.
@@ -1168,7 +1168,7 @@ Each word entry includes:
 
 ---
 
-### Feedback
+### 132. Feedback
 - **Difficulty:** ★ Foundation
 - **Origin:** Old English *fedan* (feed) + *baec* (back) — coined in control engineering
 - **Meaning:** The process of routing part of a system's output back to its input to regulate and correct behaviour.
@@ -1176,7 +1176,7 @@ Each word entry includes:
 
 ---
 
-### Articulation
+### 133. Articulation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *articulatio* (a jointing, from *articulus*: small joint, diminutive of *artus*: joint)
 - **Meaning:** The number and configuration of joints in a robotic arm that determine its range and degree of movement.
@@ -1185,7 +1185,7 @@ Each word entry includes:
 
 ---
 
-### Mechatronics
+### 134. Mechatronics
 - **Difficulty:** ★★ Medium
 - **Origin:** Portmanteau of *mechanics* + *electronics* — coined by Tetsuro Mori, Yaskawa Electric, 1969
 - **Meaning:** The interdisciplinary engineering field combining mechanical, electrical, computer, and control systems engineering.
@@ -1194,7 +1194,7 @@ Each word entry includes:
 
 ---
 
-### Eigenfrequency
+### 135. Eigenfrequency
 - **Difficulty:** ★★★ Hard
 - **Origin:** German *eigen* (own, characteristic) + Latin *frequentia* (a crowding together)
 - **Meaning:** A natural frequency at which a system oscillates without external driving force — also called resonant frequency.
@@ -1203,7 +1203,7 @@ Each word entry includes:
 
 ---
 
-### Exoskeleton
+### 136. Exoskeleton
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *exo* (outside, outer) + *skeletos* (dried up body, from *skellein*: to dry)
 - **Meaning:** A wearable robotic frame worn outside the body to augment human strength or assist rehabilitation.
@@ -1211,7 +1211,7 @@ Each word entry includes:
 
 ---
 
-### Hysteretic
+### 137. Hysteretic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *hysteresis* (a coming short) + *-ic*
 - **Meaning:** Relating to hysteresis — describing a system whose output depends on both current input and its history.
@@ -1219,7 +1219,7 @@ Each word entry includes:
 
 ---
 
-### Biomimetic
+### 138. Biomimetic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *bios* (life) + *mimetikos* (imitative, from *mimeisthai*: to imitate)
 - **Meaning:** Describing designs or systems that imitate biological structures or processes found in nature.
@@ -1228,7 +1228,7 @@ Each word entry includes:
 
 ---
 
-### Proprioceptive
+### 139. Proprioceptive
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *proprius* (one's own) + *capio* (to perceive) + *-ive*
 - **Meaning:** Relating to the sense of the relative position and movement of one's own body parts — adjectival form of *proprioception*.
@@ -1237,7 +1237,7 @@ Each word entry includes:
 
 ---
 
-### Singularity
+### 140. Singularity
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *singularis* (single, unique, from *singulus*: one at a time) + *-ity*
 - **Meaning:** A configuration of a robotic arm where it loses one or more degrees of freedom, making certain movements impossible.
@@ -1245,7 +1245,7 @@ Each word entry includes:
 
 ---
 
-### Holonomic
+### 141. Holonomic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *holos* (whole, entire) + *nomos* (law, rule) + *-ic*
 - **Meaning:** Describing a robot whose number of controllable degrees of freedom equals its total degrees of freedom.
@@ -1254,7 +1254,7 @@ Each word entry includes:
 
 ---
 
-### Electrohydraulic
+### 142. Electrohydraulic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *elektron* + *hydraulikos* (of water pipes, from *hydro*: water + *aulos*: pipe) + *-ic*
 - **Meaning:** Relating to systems that use electrical signals to control hydraulic actuators, combining both technologies.
@@ -1263,7 +1263,7 @@ Each word entry includes:
 
 ---
 
-### Anthropomorphic
+### 143. Anthropomorphic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *anthropos* (human being) + *morphe* (form, shape) + *-ic*
 - **Meaning:** Describing a robot designed to resemble or mimic the form and movements of a human body.
@@ -1272,7 +1272,7 @@ Each word entry includes:
 
 ---
 
-### Repeatability
+### 144. Repeatability
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *re* (again) + *petere* (to seek, aim at) + *-ability*
 - **Meaning:** The ability of a robot to return precisely to a previously taught position under the same conditions.
@@ -1280,7 +1280,7 @@ Each word entry includes:
 
 ---
 
-### Telemetric
+### 145. Telemetric
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *tele* (far) + *metron* (measure) + *-ic*
 - **Meaning:** Relating to the automatic measurement and wireless transmission of data from remote robotic systems.
@@ -1288,7 +1288,7 @@ Each word entry includes:
 
 ---
 
-### Reconfigurable
+### 146. Reconfigurable
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *re* (again) + *configurare* (to form after a pattern, from *con* + *figura*: form) + *-able*
 - **Meaning:** Describing a robotic system whose physical structure or software can be rearranged to perform different tasks.
@@ -1297,7 +1297,7 @@ Each word entry includes:
 
 ---
 
-### Isotropic
+### 147. Isotropic
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *isos* (equal) + *tropos* (direction, turn) + *-ic*
 - **Meaning:** Describing a material or medium whose physical properties are identical in all directions.
@@ -1305,7 +1305,7 @@ Each word entry includes:
 
 ---
 
-### Backlash
+### 148. Backlash
 - **Difficulty:** ★★ Medium
 - **Origin:** Old English *baec* + *laschen* (to strike) — coined in mechanical engineering
 - **Meaning:** The play or slack between mating components in a gear or linkage system, causing positional inaccuracy.
@@ -1313,7 +1313,7 @@ Each word entry includes:
 
 ---
 
-### Compliant
+### 149. Compliant
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *complere* (to fill up, fulfil, from *com* + *plere*: to fill) + *-ant*
 - **Meaning:** Describing a robotic mechanism or joint designed to flex or yield under force rather than remain rigid.
@@ -1321,7 +1321,7 @@ Each word entry includes:
 
 ---
 
-### Oscillatory
+### 150. Oscillatory
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *oscillare* (to swing) + *-tory* (of or relating to)
 - **Meaning:** Relating to repeated back-and-forth motion or variation around a central point, common in control system responses.
@@ -1330,7 +1330,7 @@ Each word entry includes:
 
 ---
 
-### Circumnavigation
+### 151. Circumnavigation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *circum* (around) + *navigare* (to sail, from *navis*: ship + *agere*: to drive) + *-ation*
 - **Meaning:** In robotics, autonomous planning and execution of a path that travels completely around an obstacle or environment.
@@ -1344,7 +1344,7 @@ Each word entry includes:
 ## 5. Power Systems & Energy
 
 
-### Thermoelectric
+### 152. Thermoelectric
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *thermos* (heat) + *elektron* (amber) + *-ic*
 - **Meaning:** Relating to the direct conversion of temperature differences into electric voltage, as in the Seebeck effect.
@@ -1352,7 +1352,7 @@ Each word entry includes:
 
 ---
 
-### Transformer (electrical)
+### 153. Transformer (electrical)
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *transformare* (to change in shape, from *trans* + *formare*: to form)
 - **Meaning:** An electrical device that transfers energy between circuits through electromagnetic induction, changing voltage levels.
@@ -1360,7 +1360,7 @@ Each word entry includes:
 
 ---
 
-### Combustion
+### 154. Combustion
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *combustio* (a burning, from *comburere*: to burn up completely)
 - **Meaning:** The rapid chemical process of burning fuel with oxygen to produce heat and light energy.
@@ -1368,7 +1368,7 @@ Each word entry includes:
 
 ---
 
-### Supercapacitor
+### 155. Supercapacitor
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *super* (above, beyond) + *capere* (to hold) + *-or*
 - **Meaning:** An electrochemical capacitor with extremely high energy density, capable of rapid charge and discharge cycles.
@@ -1376,7 +1376,7 @@ Each word entry includes:
 
 ---
 
-### Geothermal
+### 156. Geothermal
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *geo* (earth) + *thermos* (heat)
 - **Meaning:** Relating to heat energy generated and stored within the Earth, used to generate electricity or heat buildings.
@@ -1385,7 +1385,7 @@ Each word entry includes:
 
 ---
 
-### Thermionic
+### 157. Thermionic
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *thermos* (heat) + *ion* (going, from *ienai*: to go)
 - **Meaning:** Relating to the emission of electrons from a heated material — the principle behind vacuum tubes.
@@ -1394,7 +1394,7 @@ Each word entry includes:
 
 ---
 
-### Electromotive
+### 158. Electromotive
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *elektron* + Latin *movere* (to move) + *-ive*
 - **Meaning:** Relating to electromotive force (EMF) — the energy per unit charge supplied by a source driving current around a circuit.
@@ -1402,7 +1402,7 @@ Each word entry includes:
 
 ---
 
-### Photosynthesis
+### 159. Photosynthesis
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *photos* (light) + *synthesis* (a putting together, from *syn* + *tithenai*)
 - **Meaning:** The process by which green plants convert sunlight, water, and CO₂ into glucose and oxygen.
@@ -1411,7 +1411,7 @@ Each word entry includes:
 
 ---
 
-### Hydroelectric
+### 160. Hydroelectric
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *hydro* (water) + *elektron* (amber) + *-ic*
 - **Meaning:** Relating to electricity generated by the flow or fall of water driving a turbine connected to a generator.
@@ -1420,7 +1420,7 @@ Each word entry includes:
 
 ---
 
-### Magnetomotive
+### 161. Magnetomotive
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *magnets* (lodestone) + Latin *movere* (to move) + *-ive*
 - **Meaning:** The force that produces magnetic flux in a magnetic circuit, analogous to electromotive force in electric circuits.
@@ -1429,7 +1429,7 @@ Each word entry includes:
 
 ---
 
-### Bioenergy
+### 162. Bioenergy
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *bios* (life) + *energeia* (activity, from *en* + *ergon*: work)
 - **Meaning:** Renewable energy derived from biological sources such as plants, agricultural waste, or organic matter.
@@ -1437,7 +1437,7 @@ Each word entry includes:
 
 ---
 
-### Electrolyte
+### 163. Electrolyte
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *elektron* + *lytos* (that may be loosened, from *lyein*: to loosen)
 - **Meaning:** A substance that produces an electrically conducting solution when dissolved, essential in batteries and fuel cells.
@@ -1446,7 +1446,7 @@ Each word entry includes:
 
 ---
 
-### Thermistor
+### 164. Thermistor
 - **Difficulty:** ★ Foundation
 - **Origin:** Portmanteau of *thermal* + *resistor* — coined in electronics
 - **Meaning:** A type of resistor whose resistance changes significantly and predictably with temperature.
@@ -1455,7 +1455,7 @@ Each word entry includes:
 
 ---
 
-### Overvoltage
+### 165. Overvoltage
 - **Difficulty:** ★ Foundation
 - **Origin:** *Over-* + *volta* (from Alessandro Volta) + *-age*
 - **Meaning:** A voltage that exceeds the maximum rated value of a device or circuit, potentially causing damage.
@@ -1463,7 +1463,7 @@ Each word entry includes:
 
 ---
 
-### Photon
+### 166. Photon
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *photos* (light) + *-on* (elementary particle suffix, coined by Gilbert Lewis, 1926)
 - **Meaning:** The fundamental particle of light and all electromagnetic radiation, carrying energy proportional to frequency.
@@ -1471,7 +1471,7 @@ Each word entry includes:
 
 ---
 
-### Cogeneration
+### 167. Cogeneration
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *co* (together) + *generare* (to beget, produce)
 - **Meaning:** The simultaneous production of electricity and useful heat from the same energy source, improving efficiency.
@@ -1480,7 +1480,7 @@ Each word entry includes:
 
 ---
 
-### Electroluminescent
+### 168. Electroluminescent
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *elektron* + Latin *lumen* (light) + *-escent* (becoming)
 - **Meaning:** Describing a material that emits light when an electric current or field is applied, used in displays and lighting.
@@ -1488,7 +1488,7 @@ Each word entry includes:
 
 ---
 
-### Thermoregulation
+### 169. Thermoregulation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *thermos* (heat) + Latin *regulare* (to control, from *regula*: rule) + *-ation*
 - **Meaning:** The process by which a system maintains its temperature within certain limits — critical in battery management.
@@ -1497,7 +1497,7 @@ Each word entry includes:
 
 ---
 
-### Superconductivity
+### 170. Superconductivity
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *super* (above) + *conducere* (to lead together) + *-ivity*
 - **Meaning:** The phenomenon of exactly zero electrical resistance in certain materials cooled below a critical temperature.
@@ -1506,7 +1506,7 @@ Each word entry includes:
 
 ---
 
-### Electrochemistry
+### 171. Electrochemistry
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *elektron* + *khemeia* (alchemy) + *-istry*
 - **Meaning:** The branch of chemistry studying chemical reactions involving electron transfer, as in batteries and electroplating.
@@ -1514,7 +1514,7 @@ Each word entry includes:
 
 ---
 
-### Desalination
+### 172. Desalination
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *de* (removal of) + *sal* (salt) + *-ination*
 - **Meaning:** The process of removing salt and dissolved minerals from seawater to produce fresh water.
@@ -1523,7 +1523,7 @@ Each word entry includes:
 
 ---
 
-### Piezoelectricity
+### 173. Piezoelectricity
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *piezein* (to press) + *elektron* + *-icity*
 - **Meaning:** The electric charge that accumulates in certain solid materials in response to applied mechanical stress.
@@ -1532,7 +1532,7 @@ Each word entry includes:
 
 ---
 
-### Magnetohydrodynamics
+### 174. Magnetohydrodynamics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *magnets* + *hydro* (water) + *dynamis* (power, force) + *-ics*
 - **Meaning:** The study of electrically conducting fluids in magnetic fields, used in fusion energy research.
@@ -1541,7 +1541,7 @@ Each word entry includes:
 
 ---
 
-### Thermophotovoltaic
+### 175. Thermophotovoltaic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *thermos* (heat) + *photos* (light) + Alessandro *Volta* + *-ic*
 - **Meaning:** A technology that generates electricity by converting thermal radiation (heat-emitted photons) directly into electrical energy.
@@ -1550,7 +1550,7 @@ Each word entry includes:
 
 ---
 
-### Photocatalysis
+### 176. Photocatalysis
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *photos* (light) + *katalysis* (dissolution, from *kata*: down + *lyein*: to loosen)
 - **Meaning:** A chemical process accelerated by light — especially sunlight — used in solar fuel generation and pollution control.
@@ -1559,7 +1559,7 @@ Each word entry includes:
 
 ---
 
-### Rectification
+### 177. Rectification
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *rectificare* (to make straight, from *rectus*: straight + *facere*: to make)
 - **Meaning:** The conversion of alternating current to direct current using diodes or other semiconductor devices.
@@ -1567,7 +1567,7 @@ Each word entry includes:
 
 ---
 
-### Electronegativity
+### 178. Electronegativity
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *elektron* + Latin *negativus* (that denies, from *negare*: to deny) + *-ity*
 - **Meaning:** A measure of the tendency of an atom to attract electrons toward itself in a chemical bond.
@@ -1576,7 +1576,7 @@ Each word entry includes:
 
 ---
 
-### Transesterification
+### 179. Transesterification
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *trans* (across) + *ester* (from German *Essig-äther*: vinegar ether) + *-ification*
 - **Meaning:** A chemical reaction used in biodiesel production where oils react with alcohol to produce fatty acid esters.
@@ -1585,7 +1585,7 @@ Each word entry includes:
 
 ---
 
-### Stoichiometric
+### 180. Stoichiometric
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *stoikheion* (element) + *metron* (measure) + *-ic*
 - **Meaning:** Relating to exact proportions of reactants and products in a chemical reaction.
@@ -1594,7 +1594,7 @@ Each word entry includes:
 
 ---
 
-### Electrostatic
+### 181. Electrostatic
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *elektron* + *statikos* (causing to stand, from *histanai*: to stand) + *-ic*
 - **Meaning:** Relating to electric charges at rest and the forces between them, as in capacitors and Van de Graaff generators.
@@ -1602,7 +1602,7 @@ Each word entry includes:
 
 ---
 
-### Dissipation
+### 182. Dissipation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *dissipare* (to scatter, from *dis* + *supare*: to throw)
 - **Meaning:** The process by which energy is spread out and lost as heat in a circuit or system.
@@ -1610,7 +1610,7 @@ Each word entry includes:
 
 ---
 
-### Ionisation
+### 183. Ionisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *ion* (going, from *ienai*: to go) + *-isation*
 - **Meaning:** The process of converting an atom or molecule into an ion by adding or removing electrons.
@@ -1618,7 +1618,7 @@ Each word entry includes:
 
 ---
 
-### Electroplating
+### 184. Electroplating
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *elektron* + Old French *plate* (flat sheet of metal) + *-ing*
 - **Meaning:** The process of depositing a thin layer of metal onto a surface using electric current.
@@ -1631,7 +1631,7 @@ Each word entry includes:
 ## 6. Semiconductors & Materials
 
 
-### Crystallography
+### 185. Crystallography
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *krystallos* (clear ice, crystal) + *graphein* (to write, to record)
 - **Meaning:** The scientific study of the arrangement of atoms in crystalline solids, using X-ray diffraction and other techniques.
@@ -1640,7 +1640,7 @@ Each word entry includes:
 
 ---
 
-### Epitaxy
+### 186. Epitaxy
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *epi* (upon, over) + *taxis* (arrangement, order)
 - **Meaning:** The process of depositing a thin crystalline layer on a crystalline substrate, preserving its crystal structure.
@@ -1649,7 +1649,7 @@ Each word entry includes:
 
 ---
 
-### Diffusion
+### 187. Diffusion
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *diffusio* (a pouring out, from *dis* + *fundere*: to pour)
 - **Meaning:** The movement of dopant atoms into a semiconductor material by thermal agitation to alter its electrical properties.
@@ -1657,7 +1657,7 @@ Each word entry includes:
 
 ---
 
-### Lithography
+### 188. Lithography
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *lithos* (stone) + *graphein* (to write) — originally printing from stone
 - **Meaning:** The process of transferring circuit patterns onto a semiconductor wafer using light or electron beams.
@@ -1665,7 +1665,7 @@ Each word entry includes:
 
 ---
 
-### Stoichiometry
+### 189. Stoichiometry
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *stoikheion* (element, basic component) + *metron* (measure)
 - **Meaning:** The calculation of the quantities of reactants and products involved in a chemical reaction.
@@ -1674,7 +1674,7 @@ Each word entry includes:
 
 ---
 
-### Anisotropy
+### 190. Anisotropy
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *an* (not) + *isos* (equal) + *tropos* (turn, direction)
 - **Meaning:** The property of a material having different physical properties in different directions.
@@ -1683,7 +1683,7 @@ Each word entry includes:
 
 ---
 
-### Luminescence
+### 191. Luminescence
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *lumen* (light) + *-escence* (a process of becoming)
 - **Meaning:** The emission of light by a substance not resulting from heat, including fluorescence and phosphorescence.
@@ -1692,7 +1692,7 @@ Each word entry includes:
 
 ---
 
-### Ferroelectric
+### 192. Ferroelectric
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *ferrum* (iron) + *elektron* — named by analogy with ferromagnetism
 - **Meaning:** A material that has a spontaneous electric polarisation that can be reversed by an external electric field.
@@ -1701,7 +1701,7 @@ Each word entry includes:
 
 ---
 
-### Nanostructure
+### 193. Nanostructure
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *nanos* (dwarf) + Latin *structura* (a building, from *struere*: to build)
 - **Meaning:** A structure with at least one dimension between 1 and 100 nanometres, exhibiting quantum mechanical properties.
@@ -1709,7 +1709,7 @@ Each word entry includes:
 
 ---
 
-### Dislocation
+### 194. Dislocation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *dislocare* (to put out of place, from *dis* + *locus*: place)
 - **Meaning:** A crystallographic defect or irregularity within a crystal structure that affects its mechanical properties.
@@ -1717,7 +1717,7 @@ Each word entry includes:
 
 ---
 
-### Superlattice
+### 195. Superlattice
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *super* (above) + Old French *lattis* (latticework, from *latte*: lath)
 - **Meaning:** A periodic structure of layers of two or more materials with layer thickness typically in the nanometre range.
@@ -1725,7 +1725,7 @@ Each word entry includes:
 
 ---
 
-### Cathodoluminescence
+### 196. Cathodoluminescence
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *kathodos* (way down) + Latin *lumen* (light) + *-escence*
 - **Meaning:** Light emission from a material when bombarded by an electron beam, used in electron microscopy.
@@ -1734,7 +1734,7 @@ Each word entry includes:
 
 ---
 
-### Amorphous
+### 197. Amorphous
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *amorphos* (without form, from *a*: not + *morphe*: form, shape)
 - **Meaning:** Describing a solid material without a definite crystalline structure — atoms arranged randomly rather than in a lattice.
@@ -1743,7 +1743,7 @@ Each word entry includes:
 
 ---
 
-### Heterostructure
+### 198. Heterostructure
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *heteros* (other, different) + Latin *structura* (a building)
 - **Meaning:** A semiconductor structure composed of layers of different semiconductor materials with different bandgaps.
@@ -1751,7 +1751,7 @@ Each word entry includes:
 
 ---
 
-### Photolithography
+### 199. Photolithography
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *photos* (light) + *lithos* (stone) + *graphein* (to write)
 - **Meaning:** The use of ultraviolet light to transfer a geometric pattern from a photomask to a light-sensitive semiconductor surface.
@@ -1759,7 +1759,7 @@ Each word entry includes:
 
 ---
 
-### Magnetron
+### 200. Magnetron
 - **Difficulty:** ★ Foundation
 - **Origin:** Greek *magnets* (lodestone, from Magnesia) + *-tron* (instrument, tool)
 - **Meaning:** A high-powered vacuum tube that generates microwave radiation using the interaction of electrons with a magnetic field.
@@ -1767,7 +1767,7 @@ Each word entry includes:
 
 ---
 
-### Passivation
+### 201. Passivation
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *passivus* (capable of suffering, from *pati*: to suffer, endure)
 - **Meaning:** The process of making a semiconductor surface less reactive by depositing a protective layer to reduce defects.
@@ -1776,7 +1776,7 @@ Each word entry includes:
 
 ---
 
-### Viscosity
+### 202. Viscosity
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *viscum* (mistletoe, birdlime — a sticky substance) + *-osity*
 - **Meaning:** A measure of a fluid's resistance to flow or deformation under stress, critical in materials processing.
@@ -1785,7 +1785,7 @@ Each word entry includes:
 
 ---
 
-### Nanocrystalline
+### 203. Nanocrystalline
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *nanos* (dwarf) + *krystallos* (clear ice, crystal) + *-ine*
 - **Meaning:** Describing a material whose crystalline grains are in the nanometre size range, giving it unique mechanical and electrical properties.
@@ -1794,7 +1794,7 @@ Each word entry includes:
 
 ---
 
-### Thermoplastic
+### 204. Thermoplastic
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *thermos* (heat) + *plastikos* (fit for moulding, from *plassein*: to mould)
 - **Meaning:** A polymer material that softens when heated and hardens when cooled, allowing repeated reshaping without chemical change.
@@ -1802,7 +1802,7 @@ Each word entry includes:
 
 ---
 
-### Polycrystalline
+### 205. Polycrystalline
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *poly* (many) + *krystallos* (crystal) + *-ine*
 - **Meaning:** Describing a solid composed of many small crystals or grains with different orientations, such as most metals and ceramics.
@@ -1811,7 +1811,7 @@ Each word entry includes:
 
 ---
 
-### Ferromagnetism
+### 206. Ferromagnetism
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *ferrum* (iron) + Greek *magnets* (lodestone) + *-ism*
 - **Meaning:** The strong magnetic ordering found in materials like iron and nickel, where magnetic moments align spontaneously.
@@ -1820,7 +1820,7 @@ Each word entry includes:
 
 ---
 
-### Delocalisation
+### 207. Delocalisation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *de* (away from) + *locus* (place) + *-isation*
 - **Meaning:** The spreading of electrons over multiple atoms in a molecule rather than being fixed to one bond.
@@ -1829,7 +1829,7 @@ Each word entry includes:
 
 ---
 
-### Heterojunction
+### 208. Heterojunction
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *heteros* (other, different) + Latin *junctio* (a joining, from *jungere*: to join)
 - **Meaning:** An interface between two different semiconductor materials with different bandgaps, used in high-speed transistors and LEDs.
@@ -1838,7 +1838,7 @@ Each word entry includes:
 
 ---
 
-### Viscoelastic
+### 209. Viscoelastic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *viscum* (sticky substance) + Greek *elastikos* (able to drive, from *elaunein*: to drive)
 - **Meaning:** Describing a material that exhibits both viscous and elastic behaviour when deformed — like polymers and biological tissue.
@@ -1847,7 +1847,7 @@ Each word entry includes:
 
 ---
 
-### Photoresist
+### 210. Photoresist
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *photos* (light) + Latin *resistere* (to stand against)
 - **Meaning:** A light-sensitive material used in photolithography that changes its solubility when exposed to UV light.
@@ -1855,7 +1855,7 @@ Each word entry includes:
 
 ---
 
-### Piezoresponse
+### 211. Piezoresponse
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *piezein* (to press) + Latin *respondere* (to answer back)
 - **Meaning:** The mechanical or electrical response of a piezoelectric material to an applied electric field, measurable by microscopy.
@@ -1863,7 +1863,7 @@ Each word entry includes:
 
 ---
 
-### Chalcogenide
+### 212. Chalcogenide
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *khalkos* (copper, bronze) + *-gen* (producing) + *-ide* (chemical suffix)
 - **Meaning:** A compound containing a chalcogen element — sulfur, selenium, or tellurium — used in phase-change memory and solar cells.
@@ -1872,7 +1872,7 @@ Each word entry includes:
 
 ---
 
-### Annealing
+### 213. Annealing
 - **Difficulty:** ★★ Medium
 - **Origin:** Old English *onaelan* (to burn, set on fire, from *on* + *aelan*: to kindle)
 - **Meaning:** A heat treatment process that alters the microstructure of a material to reduce hardness and increase ductility.
@@ -1880,7 +1880,7 @@ Each word entry includes:
 
 ---
 
-### Wurtzite
+### 214. Wurtzite
 - **Difficulty:** ★★★ Hard
 - **Origin:** Named after French chemist *Charles-Adolphe Wurtz* — mineral suffix *-ite*
 - **Meaning:** A crystal structure type adopted by semiconductors like ZnO and GaN, with hexagonal symmetry and polar properties.
@@ -1888,7 +1888,7 @@ Each word entry includes:
 
 ---
 
-### Spintronics
+### 215. Spintronics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Portmanteau of *spin* (quantum mechanical property) + *electronics* — coined in the 1990s
 - **Meaning:** The study and application of intrinsic spin of electrons and its associated magnetic moment in solid-state devices.
@@ -1897,7 +1897,7 @@ Each word entry includes:
 
 ---
 
-### Tribology
+### 216. Tribology
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *tribein* (to rub) + *logos* (word, study) — coined by Peter Jost, 1966
 - **Meaning:** The science and engineering of interacting surfaces in relative motion — covering friction, wear, and lubrication.
@@ -1905,7 +1905,7 @@ Each word entry includes:
 
 ---
 
-### Plasmonic
+### 217. Plasmonic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *plasma* (something moulded or formed) + *-onic* — coined in nanotechnology
 - **Meaning:** Relating to plasmons — collective oscillations of electrons at a metal surface that interact strongly with light.
@@ -1914,7 +1914,7 @@ Each word entry includes:
 
 ---
 
-### Crystallisation
+### 218. Crystallisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *krystallos* (clear ice, crystal) + Latin *-isation*
 - **Meaning:** The process by which atoms or molecules arrange into a structured, repeating lattice to form a solid crystal.
@@ -1928,7 +1928,7 @@ Each word entry includes:
 ## 7. Emerging & Interdisciplinary Tech
 
 
-### Nanotechnology
+### 219. Nanotechnology
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *nanos* (dwarf) + Greek *tekhnologia* (systematic treatment of an art, from *tekhne*: craft + *logos*: word)
 - **Meaning:** The manipulation of matter on an atomic or molecular scale to create new structures and devices, typically 1–100 nm.
@@ -1937,7 +1937,7 @@ Each word entry includes:
 
 ---
 
-### Bioinformatics
+### 220. Bioinformatics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *bios* (life) + Latin *informare* (to give form to, instruct) + *-ics*
 - **Meaning:** The application of computational tools and data analysis to understand biological data such as DNA sequences and protein structures.
@@ -1946,7 +1946,7 @@ Each word entry includes:
 
 ---
 
-### Metamaterial
+### 221. Metamaterial
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *meta* (beyond, after) + Latin *materialis* (of matter, from *materia*: matter, stuff)
 - **Meaning:** An engineered material with structures designed to exhibit properties not found in naturally occurring materials, such as negative refractive index.
@@ -1954,7 +1954,7 @@ Each word entry includes:
 
 ---
 
-### Neuroprosthetics
+### 222. Neuroprosthetics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *neuron* (nerve, sinew) + Greek *prosthesis* (addition, from *pros*: in addition + *tithenai*: to place) + *-ics*
 - **Meaning:** The field developing devices that replace or supplement the function of damaged parts of the nervous system.
@@ -1962,7 +1962,7 @@ Each word entry includes:
 
 ---
 
-### Photonics
+### 223. Photonics
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *photos* (light) + *-onics* (relating to devices using the given carrier — coined by analogy with *electronics*)
 - **Meaning:** The science and technology of generating, detecting, and manipulating photons for communication and sensing.
@@ -1970,7 +1970,7 @@ Each word entry includes:
 
 ---
 
-### Cybernetics
+### 224. Cybernetics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *kubernetes* (steersman, pilot, from *kybernan*: to steer) + *-ics* — coined by Norbert Wiener, 1948
 - **Meaning:** The interdisciplinary study of regulatory systems — their structures, constraints, and possibilities — in both machines and living organisms.
@@ -1979,7 +1979,7 @@ Each word entry includes:
 
 ---
 
-### Microfluidics
+### 225. Microfluidics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *mikros* (small) + Latin *fluidus* (flowing, from *fluere*: to flow) + *-ics*
 - **Meaning:** The science of manipulating and controlling fluids in channels with dimensions of tens to hundreds of micrometres.
@@ -1988,7 +1988,7 @@ Each word entry includes:
 
 ---
 
-### Biophotonics
+### 226. Biophotonics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *bios* (life) + *photos* (light) + *-onics*
 - **Meaning:** The application of light-based technologies to biological and medical sciences — including imaging, diagnostics, and therapy.
@@ -1996,7 +1996,7 @@ Each word entry includes:
 
 ---
 
-### Optogenetics
+### 227. Optogenetics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *optos* (seen, visible) + Greek *genesis* (origin, creation) + *-ics*
 - **Meaning:** A technique that uses light to control neurons that have been genetically modified to be light-sensitive.
@@ -2005,7 +2005,7 @@ Each word entry includes:
 
 ---
 
-### Neuromorphic
+### 228. Neuromorphic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *neuron* (nerve) + Greek *morphe* (form, shape) + *-ic* — coined by Carver Mead, 1990
 - **Meaning:** Describing computing architectures that mimic the structure and function of biological neural networks.
@@ -2014,7 +2014,7 @@ Each word entry includes:
 
 ---
 
-### Supramolecular
+### 229. Supramolecular
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *supra* (above, beyond) + Latin *molecula* (small mass, from *moles*: mass) + *-ar*
 - **Meaning:** Relating to chemistry that studies associations of molecules held together by non-covalent interactions.
@@ -2023,7 +2023,7 @@ Each word entry includes:
 
 ---
 
-### Electrospinning
+### 230. Electrospinning
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *elektron* + Old English *spinnan* (to spin, draw out) + *-ing*
 - **Meaning:** A process using electrical force to draw charged threads of polymer into fibres of nano or micrometre diameter.
@@ -2031,7 +2031,7 @@ Each word entry includes:
 
 ---
 
-### Cryogenics
+### 231. Cryogenics
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *kryos* (cold, frost, icy cold) + *-genics* (producing)
 - **Meaning:** The branch of physics that studies the production and effects of very low temperatures and their applications.
@@ -2040,7 +2040,7 @@ Each word entry includes:
 
 ---
 
-### Astrobiology
+### 232. Astrobiology
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *astron* (star) + *bios* (life) + *logos* (word, study)
 - **Meaning:** The scientific study of the origin, evolution, and distribution of life in the universe.
@@ -2048,7 +2048,7 @@ Each word entry includes:
 
 ---
 
-### Acoustoelectric
+### 233. Acoustoelectric
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *akoustikos* (of or for hearing, from *akouein*: to hear) + *elektron*
 - **Meaning:** Relating to the interaction between acoustic (sound) waves and electric charge carriers in a semiconductor or piezoelectric material.
@@ -2057,7 +2057,7 @@ Each word entry includes:
 
 ---
 
-### Geospatial
+### 234. Geospatial
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *geo* (earth) + Latin *spatium* (space, room, extent) + *-al*
 - **Meaning:** Relating to data that is directly or indirectly referenced to a location on the Earth — used in mapping and remote sensing.
@@ -2065,7 +2065,7 @@ Each word entry includes:
 
 ---
 
-### Thermoplasmonic
+### 235. Thermoplasmonic
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *thermos* (heat) + *plasma* (something moulded) + *-onic*
 - **Meaning:** Relating to the generation of heat from plasmonic nanostructures upon light absorption — used in cancer therapy and solar energy.
@@ -2073,7 +2073,7 @@ Each word entry includes:
 
 ---
 
-### Nanoelectronics
+### 236. Nanoelectronics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *nanos* (dwarf) + Greek *elektron* + *-ics*
 - **Meaning:** The field of electronics using components with nanometre-scale dimensions, pushing beyond conventional semiconductor limits.
@@ -2081,7 +2081,7 @@ Each word entry includes:
 
 ---
 
-### Terahertz
+### 237. Terahertz
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *teras* (monster, prodigy — prefix meaning 10¹²) + *Heinrich Hertz* (German physicist)
 - **Meaning:** A unit of frequency equal to one trillion hertz — the terahertz spectrum lies between microwave and infrared radiation.
@@ -2089,7 +2089,7 @@ Each word entry includes:
 
 ---
 
-### Biomechatronics
+### 238. Biomechatronics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *bios* (life) + portmanteau of *mechanics* + *electronics* (mechatronics)
 - **Meaning:** An applied science integrating biology, mechanics, electronics, and computing to design devices that interact with living systems.
@@ -2103,7 +2103,7 @@ Each word entry includes:
 ## 8. AI, Biotech & Space
 
 
-### Backpropagation
+### 239. Backpropagation
 - **Difficulty:** ★★★ Hard
 - **Origin:** Old English *baec* + Latin *propagare* (to extend, spread, from *propago*: layer of a plant) + *-ation*
 - **Meaning:** The algorithm used to train neural networks by calculating the gradient of the loss function with respect to each weight, working backwards through the network.
@@ -2112,7 +2112,7 @@ Each word entry includes:
 
 ---
 
-### Transformer
+### 240. Transformer
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *transformare* (to change shape, from *trans* + *formare*: to form) — repurposed for the 2017 AI architecture
 - **Meaning:** A deep learning architecture based entirely on self-attention mechanisms, foundational to large language models.
@@ -2120,7 +2120,7 @@ Each word entry includes:
 
 ---
 
-### Hyperparameter
+### 241. Hyperparameter
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *hyper* (over, above, beyond) + Latin *parametrum* (a thing measured alongside, from *para* + *metron*)
 - **Meaning:** A configuration variable set before training a machine learning model — such as learning rate or number of layers.
@@ -2128,7 +2128,7 @@ Each word entry includes:
 
 ---
 
-### Convolutional
+### 242. Convolutional
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *convolvere* (to roll together, from *con* + *volvere*: to roll) + *-ional*
 - **Meaning:** Relating to a type of neural network layer that applies learned filters across input data to extract spatial features.
@@ -2137,7 +2137,7 @@ Each word entry includes:
 
 ---
 
-### Regularisation
+### 243. Regularisation
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *regularis* (containing rules, from *regula*: rule) + *-isation*
 - **Meaning:** A technique to prevent overfitting in machine learning by adding a penalty term to the loss function.
@@ -2145,7 +2145,7 @@ Each word entry includes:
 
 ---
 
-### Recombinant
+### 244. Recombinant
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *re* (again) + *combinare* (to join together, from *com* + *bini*: two by two) + *-ant*
 - **Meaning:** Describing DNA or organisms that contain genetic material from two or more sources, produced by genetic engineering.
@@ -2154,7 +2154,7 @@ Each word entry includes:
 
 ---
 
-### Genomics
+### 245. Genomics
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *genos* (race, kind, birth) + *-ome* (complete set) + *-ics* — coined by Tom Roderick, 1986
 - **Meaning:** The branch of molecular biology concerned with the structure, function, evolution, and mapping of entire genomes.
@@ -2162,7 +2162,7 @@ Each word entry includes:
 
 ---
 
-### Proteomics
+### 246. Proteomics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *proteinum* (protein, from Greek *proteios*: of the first rank) + *-ome* + *-ics* — coined by Marc Wilkins, 1994
 - **Meaning:** The large-scale study of all proteins expressed by a genome, cell, or organism at a given time.
@@ -2171,7 +2171,7 @@ Each word entry includes:
 
 ---
 
-### Epigenetics
+### 247. Epigenetics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *epi* (upon, above, over) + *genesis* (origin, creation) + *-ics*
 - **Meaning:** The study of heritable changes in gene expression that do not involve alterations to the DNA sequence itself.
@@ -2180,7 +2180,7 @@ Each word entry includes:
 
 ---
 
-### Spectroscopy
+### 248. Spectroscopy
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *spectrum* (appearance, image, from *specere*: to look) + Greek *skopein* (to examine)
 - **Meaning:** The study of the interaction between matter and electromagnetic radiation, used to identify the composition of stars and gases.
@@ -2189,7 +2189,7 @@ Each word entry includes:
 
 ---
 
-### Astrodynamics
+### 249. Astrodynamics
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *astron* (star) + *dynamis* (power, force) + *-ics*
 - **Meaning:** The branch of mechanics concerned with the motion of rockets, spacecraft, and other objects in outer space.
@@ -2198,7 +2198,7 @@ Each word entry includes:
 
 ---
 
-### Exoplanet
+### 250. Exoplanet
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *exo* (outside, external) + Greek *planetes* (wanderer, from *planasthai*: to wander)
 - **Meaning:** A planet orbiting a star other than the Sun — detected by transit and radial velocity techniques.
@@ -2206,7 +2206,7 @@ Each word entry includes:
 
 ---
 
-### Cryosphere
+### 251. Cryosphere
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *kryos* (cold, frost) + *sphaira* (ball, globe)
 - **Meaning:** The frozen water component of the Earth system — including ice sheets, glaciers, sea ice, and permafrost.
@@ -2214,7 +2214,7 @@ Each word entry includes:
 
 ---
 
-### Magnetosphere
+### 252. Magnetosphere
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *magnets* (lodestone) + *sphaira* (ball, globe)
 - **Meaning:** The region surrounding a planet where its magnetic field dominates, deflecting solar wind and cosmic radiation.
@@ -2222,7 +2222,7 @@ Each word entry includes:
 
 ---
 
-### Luminosity
+### 253. Luminosity
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *luminosus* (full of light, from *lumen*: light) + *-ity*
 - **Meaning:** The total amount of energy emitted by a star per unit of time — an intrinsic property independent of distance.
@@ -2230,7 +2230,7 @@ Each word entry includes:
 
 ---
 
-### Interferometric
+### 254. Interferometric
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *interferere* (to strike between) + Greek *metron* (measure) + *-ic*
 - **Meaning:** Relating to the use of wave interference to make extremely precise measurements — used in gravitational wave detection.
@@ -2239,7 +2239,7 @@ Each word entry includes:
 
 ---
 
-### Biosynthesis
+### 255. Biosynthesis
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *bios* (life) + *synthesis* (a putting together, from *syn* + *tithenai*: to place)
 - **Meaning:** The production of complex molecules within living organisms, as in the biosynthesis of proteins from amino acids.
@@ -2248,7 +2248,7 @@ Each word entry includes:
 
 ---
 
-### Neurotransmitter
+### 256. Neurotransmitter
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *neuron* (nerve) + Latin *transmittere* (to send across, from *trans* + *mittere*: to send) + *-er*
 - **Meaning:** A chemical messenger released by neurons that transmits signals across synapses to other neurons or muscle cells.
@@ -2257,7 +2257,7 @@ Each word entry includes:
 
 ---
 
-### Exobiology
+### 257. Exobiology
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *exo* (outside) + *bios* (life) + *logos* (word, study)
 - **Meaning:** The study of the potential for life beyond Earth — investigating extreme environments and the chemical origins of life.
@@ -2269,7 +2269,7 @@ Each word entry includes:
 
 ## 9. Communications & Signals
 
-### Modulation
+### 258. Modulation
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *modulari* (to measure, regulate, from *modulus*: small measure)
@@ -2277,7 +2277,7 @@ Each word entry includes:
 - **Roots:** `modul-` `-ation`
 ---
  
-### Attenuation
+### 259. Attenuation
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *attenuare* (to make thin, from *ad* + *tenuis*: thin, slender)
@@ -2286,7 +2286,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** Double 't' at start. Root *tenu-* keeps its 'u'. A-T-T-E-N-U-A-T-I-O-N.
 ---
  
-### Propagation
+### 260. Propagation
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *propagare* (to extend, spread, from *propago*: layer of a plant)
@@ -2295,7 +2295,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** Root *propag-* has 'a': prop-**A**-gation. Ends in **-ation**, not *-asion*. P-R-O-P-A-G-A-T-I-O-N.
 ---
  
-### Transceiver
+### 261. Transceiver
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Portmanteau of *transmitter* + *receiver* — coined in radio engineering
@@ -2303,7 +2303,7 @@ Each word entry includes:
 - **Roots:** `trans-` `ceiv-` `-er`
 ---
  
-### Wavelength
+### 262. Wavelength
  
 - **Difficulty:** ★ Foundation
 - **Origin:** Old English *waeg* (wave) + *length* (from *lang*: long)
@@ -2311,7 +2311,7 @@ Each word entry includes:
 - **Roots:** `wave-` `length`
 ---
  
-### Decibel
+### 263. Decibel
  
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *deci* (one tenth) + *Alexander Graham Bell* (Scottish inventor) — unit named in his honour
@@ -2319,7 +2319,7 @@ Each word entry includes:
 - **Roots:** `deci-` `bel`
 ---
  
-### Oscillation
+### 264. Oscillation
  
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *oscillare* (to swing) + *-ation*
@@ -2327,7 +2327,7 @@ Each word entry includes:
 - **Roots:** `oscill-` `-ation`
 ---
  
-### Quadrature
+### 265. Quadrature
  
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *quadratura* (a squaring, from *quadrare*: to make square, from *quattuor*: four)
@@ -2336,7 +2336,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** The 'a' after *quadr-* is essential: quadr-**A**-ture. Ends in **-ture**, not *-tur*. Q-U-A-D-R-A-T-U-R-E.
 ---
  
-### Demultiplexer
+### 266. Demultiplexer
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *de* (reverse of) + *multiplex* (manifold, many-fold) + *-er*
@@ -2345,7 +2345,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** Suffix is **-er**, not *-or* or *-ar*. The 'i' in *multi-* stays intact. D-E-M-U-L-T-I-P-L-E-X-E-R.
 ---
  
-### Antenna
+### 267. Antenna
  
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *antenna* (sailyard of a ship — the horizontal cross-spar) — applied to radio aerials by Marconi
@@ -2353,7 +2353,7 @@ Each word entry includes:
 - **Roots:** `antenna`
 ---
  
-### Directivity
+### 268. Directivity
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *directus* (straight, past participle of *dirigere*: to direct) + *-ivity*
@@ -2362,7 +2362,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** Direct + **ivity**. Suffix is **-ivity**, not *-ivety* or *-ivaty*. Single 'r'. D-I-R-E-C-T-I-V-I-T-Y.
 ---
  
-### Orthogonal
+### 269. Orthogonal
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *orthos* (straight, correct) + *gonia* (angle, corner)
@@ -2371,7 +2371,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** The 'o' after *g*: orthog-**O**-nal. Not *orthagonal* or *orthigonal*. O-R-T-H-O-G-O-N-A-L.
 ---
  
-### Amplitude
+### 270. Amplitude
  
 - **Difficulty:** ★ Foundation
 - **Origin:** Latin *amplitudo* (breadth, extent, from *amplus*: large, spacious)
@@ -2379,7 +2379,7 @@ Each word entry includes:
 - **Roots:** `amplit-` `-ude`
 ---
  
-### Dispersion
+### 271. Dispersion
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *dispersio* (a scattering, from *dis* + *spargere*: to scatter, strew)
@@ -2387,7 +2387,7 @@ Each word entry includes:
 - **Roots:** `dispers-` `-ion`
 ---
  
-### Polarimetry
+### 272. Polarimetry
  
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *polus* (axis, pole) + *metron* (measure) + *-y*
@@ -2396,7 +2396,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** Polar + **imetry**. Root *metr-* is standard — ends **-metry**, not *-mitry* or *-metrey*. P-O-L-A-R-I-M-E-T-R-Y.
 ---
  
-### Photodetector
+### 273. Photodetector
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *photos* (light) + Latin *detegere* (to uncover, detect, from *de* + *tegere*: to cover)
@@ -2404,7 +2404,7 @@ Each word entry includes:
 - **Roots:** `photo-` `detect-` `-or`
 ---
  
-### Beamforming
+### 274. Beamforming
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Old English *beam* (ray of light, later radio beam) + Latin *formare* (to shape) + *-ing*
@@ -2412,7 +2412,7 @@ Each word entry includes:
 - **Roots:** `beam-` `form-` `-ing`
 ---
  
-### Heterogeneous
+### 275. Heterogeneous
  
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *heteros* (other, different) + *genos* (kind, race, type) + *-ous*
@@ -2421,7 +2421,7 @@ Each word entry includes:
 - **⚠ Spelling Trap:** Ends in **-eous**, not *-ous* or *-ious*. The 'e' before *-ous* is essential. H-E-T-E-R-O-G-E-N-E-O-U-S.
 ---
  
-### Demodulator
+### 276. Demodulator
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *de* (reverse of) + *modulari* (to regulate) + *-ator*
@@ -2429,7 +2429,7 @@ Each word entry includes:
 - **Roots:** `de-` `modul-` `-ator`
 ---
  
-### Spectrometer
+### 277. Spectrometer
  
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *spectrum* (appearance, image) + Greek *metron* (measure) + *-er*
@@ -2442,7 +2442,7 @@ Each word entry includes:
 
 ## 10. Chemical Engineering & Processes
 
-### Distillation
+### 278. Distillation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *destillare* (to drip down, from *de* + *stillare*: to drip, from *stilla*: a drop)
@@ -2451,7 +2451,7 @@ Each word entry includes:
 
 ---
 
-### Polymerisation
+### 279. Polymerisation
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *poly* (many) + *meros* (part, share) + *-isation*
@@ -2461,7 +2461,7 @@ Each word entry includes:
 
 ---
 
-### Chromatography
+### 280. Chromatography
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *khromatos* (of colour, from *khroma*: colour) + *graphein* (to write)
@@ -2471,7 +2471,7 @@ Each word entry includes:
 
 ---
 
-### Thermolysis
+### 281. Thermolysis
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *thermos* (heat) + *lysis* (a loosening, from *lyein*: to loosen)
@@ -2480,7 +2480,7 @@ Each word entry includes:
 
 ---
 
-### Adsorption
+### 282. Adsorption
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *ad* (to, toward) + *sorbere* (to suck up, absorb)
@@ -2490,7 +2490,7 @@ Each word entry includes:
 
 ---
 
-### Catalysis
+### 283. Catalysis
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *katalysis* (dissolution, from *kata*: down + *lyein*: to loosen) — coined by Berzelius, 1835
@@ -2499,7 +2499,7 @@ Each word entry includes:
 
 ---
 
-### Exothermic
+### 284. Exothermic
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *exo* (outside, out of) + *thermos* (heat) + *-ic*
@@ -2508,7 +2508,7 @@ Each word entry includes:
 
 ---
 
-### Endothermic
+### 285. Endothermic
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *endo* (within, inside) + *thermos* (heat) + *-ic*
@@ -2517,7 +2517,7 @@ Each word entry includes:
 
 ---
 
-### Sublimation
+### 286. Sublimation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *sublimatio* (a lifting up, elevation, from *sublimare*: to elevate)
@@ -2526,7 +2526,7 @@ Each word entry includes:
 
 ---
 
-### Electrophoresis
+### 287. Electrophoresis
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *elektron* + *phoresis* (a carrying, from *pherein*: to carry)
@@ -2536,7 +2536,7 @@ Each word entry includes:
 
 ---
 
-### Saponification
+### 288. Saponification
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *sapo* (soap, of Germanic origin) + *facere* (to make) + *-ification*
@@ -2546,7 +2546,7 @@ Each word entry includes:
 
 ---
 
-### Pyrolysis
+### 289. Pyrolysis
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *pyros* (fire, from *pyr*: fire) + *lysis* (a loosening)
@@ -2556,7 +2556,7 @@ Each word entry includes:
 
 ---
 
-### Emulsification
+### 290. Emulsification
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *emulgere* (to milk out, drain, from *ex* + *mulgere*: to milk) + *-ification*
@@ -2566,7 +2566,7 @@ Each word entry includes:
 
 ---
 
-### Flocculation
+### 291. Flocculation
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *flocculus* (a small tuft of wool, diminutive of *floccus*: lock of wool) + *-ation*
@@ -2576,7 +2576,7 @@ Each word entry includes:
 
 ---
 
-### Depolymerisation
+### 292. Depolymerisation
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *de* (reverse of) + Greek *poly* (many) + *meros* (part) + *-isation*
@@ -2586,7 +2586,7 @@ Each word entry includes:
 
 ---
 
-### Permeation
+### 293. Permeation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *permeare* (to pass through, from *per* + *meare*: to go, pass)
@@ -2595,7 +2595,7 @@ Each word entry includes:
 
 ---
 
-### Alkylation
+### 294. Alkylation
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Arabic *al-kuhl* (the kohl — fine powder) → alcohol → alkyl + *-ation*
@@ -2604,7 +2604,7 @@ Each word entry includes:
 
 ---
 
-### Rheology
+### 295. Rheology
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *rheos* (stream, flow, from *rhein*: to flow) + *logos* (word, study) — coined by Eugene Bingham, 1929
@@ -2614,7 +2614,7 @@ Each word entry includes:
 
 ---
 
-### Precipitation
+### 296. Precipitation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *praecipitare* (to throw headlong, from *praeceps*: headlong, from *prae*: before + *caput*: head)
@@ -2623,7 +2623,7 @@ Each word entry includes:
 
 ---
 
-### Stoichiometry
+### 297. Stoichiometry
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *stoikheion* (element, basic component) + *metron* (measure)
@@ -2637,7 +2637,7 @@ Each word entry includes:
 
 ## 11. Data Science, Quantum & Security
 
-### Heteroscedasticity
+### 298. Heteroscedasticity
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *heteros* (other, different) + *skedastikos* (able to scatter, from *skedannynai*: to scatter) + *-ity*
@@ -2647,7 +2647,7 @@ Each word entry includes:
 
 ---
 
-### Autocorrelation
+### 299. Autocorrelation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *autos* (self) + Latin *correlatio* (mutual relation, from *co* + *relatio*: a bringing back)
@@ -2656,7 +2656,7 @@ Each word entry includes:
 
 ---
 
-### Dimensionality
+### 300. Dimensionality
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *dimensio* (a measuring, from *dimetiri*: to measure out) + *-ality*
@@ -2665,7 +2665,7 @@ Each word entry includes:
 
 ---
 
-### Probabilistic
+### 301. Probabilistic
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *probabilis* (credible, provable, from *probare*: to prove) + *-istic*
@@ -2675,7 +2675,7 @@ Each word entry includes:
 
 ---
 
-### Quantisation
+### 302. Quantisation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *quantus* (how much, how great) + *-isation*
@@ -2684,7 +2684,7 @@ Each word entry includes:
 
 ---
 
-### Decoherence
+### 303. Decoherence
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *de* (away from, undoing) + *cohaerere* (to cohere, stick together, from *co* + *haerere*: to cling) + *-ence*
@@ -2694,7 +2694,7 @@ Each word entry includes:
 
 ---
 
-### Holography
+### 304. Holography
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *holos* (whole, entire) + *graphein* (to write) — coined by Dennis Gabor, 1947
@@ -2703,7 +2703,7 @@ Each word entry includes:
 
 ---
 
-### Cryptanalysis
+### 305. Cryptanalysis
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *kryptos* (hidden, secret) + *analysis* (unloosening, from *ana*: up + *lyein*: to loosen)
@@ -2713,7 +2713,7 @@ Each word entry includes:
 
 ---
 
-### Steganography
+### 306. Steganography
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *steganos* (covered, concealed, from *stegein*: to cover) + *graphein* (to write)
@@ -2723,7 +2723,7 @@ Each word entry includes:
 
 ---
 
-### Parallelisation
+### 307. Parallelisation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *parallelos* (beside one another, from *para* + *allelon*: of one another) + *-isation*
@@ -2733,7 +2733,7 @@ Each word entry includes:
 
 ---
 
-### Discretisation
+### 308. Discretisation
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Latin *discretus* (separated, distinct, past participle of *discernere*: to distinguish) + *-isation*
@@ -2743,7 +2743,7 @@ Each word entry includes:
 
 ---
 
-### Parameterisation
+### 309. Parameterisation
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *para* (beside, alongside) + *metron* (measure) + *-isation*
@@ -2753,7 +2753,7 @@ Each word entry includes:
 
 ---
 
-### Eigendecomposition
+### 310. Eigendecomposition
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** German *eigen* (own, characteristic) + Latin *decompositio* (a breaking apart, from *de* + *componere*: to put together)
@@ -2763,7 +2763,7 @@ Each word entry includes:
 
 ---
 
-### Extrapolation
+### 311. Extrapolation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *extra* (outside, beyond) + *polire* (to polish, smooth) + *-ation* — coined by analogy with *interpolation*
@@ -2772,7 +2772,7 @@ Each word entry includes:
 
 ---
 
-### Differentiable
+### 312. Differentiable
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *differentiare* (to differentiate, from *differentia*: difference, from *differre*: to carry apart) + *-able*
@@ -2781,7 +2781,7 @@ Each word entry includes:
 
 ---
 
-### Stochasticity
+### 313. Stochasticity
 
 - **Difficulty:** ★★★ Hard
 - **Origin:** Greek *stokhastikos* (able to guess, from *stokhos*: target, aim) + *-ity*
@@ -2791,7 +2791,7 @@ Each word entry includes:
 
 ---
 
-### Normalisation
+### 314. Normalisation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *normalis* (made according to a rule, from *norma*: carpenter's square, rule) + *-isation*
@@ -2800,7 +2800,7 @@ Each word entry includes:
 
 ---
 
-### Vectorisation
+### 315. Vectorisation
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *vector* (a carrier, from *vehere*: to carry) + *-isation*
@@ -2809,7 +2809,7 @@ Each word entry includes:
 
 ---
 
-### Perceptron
+### 316. Perceptron
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Latin *perceptio* (comprehension, from *percipere*: to seize, grasp fully) + *-tron* (instrument, device) — coined by Frank Rosenblatt, 1957
@@ -2818,7 +2818,7 @@ Each word entry includes:
 
 ---
 
-### Geosynchronous
+### 317. Geosynchronous
 
 - **Difficulty:** ★★ Medium
 - **Origin:** Greek *geo* (earth) + *syn* (together) + *khronos* (time) + *-ous*
@@ -2860,5 +2860,3 @@ Understanding these roots will help you spell hundreds of STEM words — includi
 | `-ics` | Greek/Latin | field of study | photonics, cryogenics, spintronics |
 
 ---
-
- 
