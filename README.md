@@ -2635,7 +2635,7 @@ Each word entry includes:
 
 ---
 
-## 11 — Data Science, Quantum & Security
+## 11. Data Science, Quantum & Security
 
 ### Heteroscedasticity
 
