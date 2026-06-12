@@ -30,6 +30,8 @@ Each word entry includes:
 10. [Chemical Engineering & Processes](#10-chemical-engineering--processes) — 20 words
 11. [Data Science, Quantum & Security](#11-data-science-quantum--security) — 20 words
 
+📌 [Quick-Reference Root Guide](#-quick-reference-root-guide)
+
 **Total unique words: ~317**
 
 
