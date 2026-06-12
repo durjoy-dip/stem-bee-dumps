@@ -28,8 +28,9 @@ Each word entry includes:
 8. [AI, Biotech & Space](#8-ai-biotech--space) — 20 words
 9. [Communications & Signals](#9-communications--signals) — 20 words
 10. [Chemical Engineering & Processes](#10-chemical-engineering--processes) — 20 words
+11. [Data Science, Quantum & Security](#11-data-science-quantum--security) — 20 words
 
-**Total unique words: ~304**
+**Total unique words: ~324**
 
 
 ---
@@ -2629,6 +2630,200 @@ Each word entry includes:
 - **Meaning:** The calculation of the quantities of reactants and products in a chemical reaction based on the law of conservation of mass.
 - **Roots:** `stoichio-` `-metry`
 - **⚠ Spelling Trap:** Two hidden 'i's: S-T-O-**I**-C-H-**I**-O-M-E-T-R-Y. Say slowly: stoy-kee-OM-et-ree. The second 'i' after 'ch' is always dropped.
+
+---
+
+---
+
+## 11 — Data Science, Quantum & Security
+
+### Heteroscedasticity
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *heteros* (other, different) + *skedastikos* (able to scatter, from *skedannynai*: to scatter) + *-ity*
+- **Meaning:** A property of a dataset where the variability of a variable is unequal across values of a second variable — a common violation of regression assumptions.
+- **Roots:** `hetero-` `skedast-` `-icity`
+- **⚠ Spelling Trap:** The 'o' in *hetero-* is essential. Ends in **-icity** not *-isity*. H-E-T-E-R-O-S-C-E-D-A-S-T-I-C-I-T-Y.
+
+---
+
+### Autocorrelation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *autos* (self) + Latin *correlatio* (mutual relation, from *co* + *relatio*: a bringing back)
+- **Meaning:** The correlation of a signal or dataset with a delayed copy of itself — used to detect repeating patterns in time series data.
+- **Roots:** `auto-` `co-` `relat-` `-ion`
+
+---
+
+### Dimensionality
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *dimensio* (a measuring, from *dimetiri*: to measure out) + *-ality*
+- **Meaning:** The number of features or variables in a dataset — high dimensionality creates the 'curse of dimensionality' in machine learning.
+- **Roots:** `dimension-` `-ality`
+
+---
+
+### Probabilistic
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *probabilis* (credible, provable, from *probare*: to prove) + *-istic*
+- **Meaning:** Describing a model or process that incorporates randomness — outputs are expressed as probabilities rather than certainties.
+- **Roots:** `probabil-` `-istic`
+- **⚠ Spelling Trap:** Root *probabil-* with 'i': prob-A-bil-**istic**. Never *-ablistic*. P-R-O-B-A-B-I-L-I-S-T-I-C.
+
+---
+
+### Quantisation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *quantus* (how much, how great) + *-isation*
+- **Meaning:** The process of constraining values to a discrete set — in quantum mechanics, the restriction of observable quantities to specific discrete values.
+- **Roots:** `quant-` `-isation`
+
+---
+
+### Decoherence
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *de* (away from, undoing) + *cohaerere* (to cohere, stick together, from *co* + *haerere*: to cling) + *-ence*
+- **Meaning:** The loss of quantum coherence in a system due to interaction with its environment — the primary obstacle to practical quantum computing.
+- **Roots:** `de-` `coher-` `-ence`
+- **⚠ Spelling Trap:** De + coherence. The 'e' in *-rence*: decoher-**E**-nce. Suffix **-ence** not *-ance*. D-E-C-O-H-E-R-E-N-C-E.
+
+---
+
+### Holography
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *holos* (whole, entire) + *graphein* (to write) — coined by Dennis Gabor, 1947
+- **Meaning:** A technique for recording and reconstructing the full three-dimensional information of an object using interference patterns of light.
+- **Roots:** `holo-` `graph-` `-y`
+
+---
+
+### Cryptanalysis
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *kryptos* (hidden, secret) + *analysis* (unloosening, from *ana*: up + *lyein*: to loosen)
+- **Meaning:** The study of techniques for deciphering encrypted messages without access to the key — the science of breaking codes.
+- **Roots:** `crypto-` `analys-` `-is`
+- **⚠ Spelling Trap:** The 'y' in *-alysis*: anal-**Y**-sis. C-R-Y-P-T-A-N-A-L-Y-S-I-S.
+
+---
+
+### Steganography
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *steganos* (covered, concealed, from *stegein*: to cover) + *graphein* (to write)
+- **Meaning:** The practice of hiding secret data within an ordinary non-secret file or message so the very existence of the message is concealed.
+- **Roots:** `stegano-` `graph-` `-y`
+- **⚠ Spelling Trap:** The 'a' in *stegan-*: steg-**A**-n. Suffix **-graphy** not *-grafy*. S-T-E-G-A-N-O-G-R-A-P-H-Y.
+
+---
+
+### Parallelisation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *parallelos* (beside one another, from *para* + *allelon*: of one another) + *-isation*
+- **Meaning:** The conversion of a sequential process into one that can be executed simultaneously across multiple processors or compute units.
+- **Roots:** `parallel-` `-isation`
+- **⚠ Spelling Trap:** Double 'l' in *parallel* carries through: paralle-**LL**-isation. British: **-isation** not *-ization*. P-A-R-A-L-L-E-L-I-S-A-T-I-O-N.
+
+---
+
+### Discretisation
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Latin *discretus* (separated, distinct, past participle of *discernere*: to distinguish) + *-isation*
+- **Meaning:** The process of converting continuous functions, models, or variables into discrete counterparts — used in numerical methods and digital signal processing.
+- **Roots:** `discret-` `-isation`
+- **⚠ Spelling Trap:** Root *discret-* keeps its 'e': discret not discrit. British: **-isation**. D-I-S-C-R-E-T-I-S-A-T-I-O-N.
+
+---
+
+### Parameterisation
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *para* (beside, alongside) + *metron* (measure) + *-isation*
+- **Meaning:** The process of expressing a mathematical object or system in terms of one or more independent parameters — fundamental in modelling and simulation.
+- **Roots:** `para-` `metr-` `-isation`
+- **⚠ Spelling Trap:** Full *-meter-* not *-metr-*: parameter-**isation**. British: **-isation**. P-A-R-A-M-E-T-E-R-I-S-A-T-I-O-N.
+
+---
+
+### Eigendecomposition
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** German *eigen* (own, characteristic) + Latin *decompositio* (a breaking apart, from *de* + *componere*: to put together)
+- **Meaning:** The factorisation of a matrix into a canonical form using its eigenvalues and eigenvectors — used in PCA and spectral analysis.
+- **Roots:** `eigen-` `de-` `composit-` `-ion`
+- **⚠ Spelling Trap:** German *eigen* as-is — not *aigen* or *igan*. Full *decomposition* root intact. E-I-G-E-N-D-E-C-O-M-P-O-S-I-T-I-O-N.
+
+---
+
+### Extrapolation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *extra* (outside, beyond) + *polire* (to polish, smooth) + *-ation* — coined by analogy with *interpolation*
+- **Meaning:** The estimation of values outside the range of known data by extending a known sequence or model beyond its observed range.
+- **Roots:** `extra-` `pol-` `-ation`
+
+---
+
+### Differentiable
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *differentiare* (to differentiate, from *differentia*: difference, from *differre*: to carry apart) + *-able*
+- **Meaning:** Describing a function that has a derivative at every point in its domain — a key requirement for gradient-based optimisation in deep learning.
+- **Roots:** `different-` `-iable`
+
+---
+
+### Stochasticity
+
+- **Difficulty:** ★★★ Hard
+- **Origin:** Greek *stokhastikos* (able to guess, from *stokhos*: target, aim) + *-ity*
+- **Meaning:** The quality of having a random probability distribution — the degree to which a system or process is inherently unpredictable.
+- **Roots:** `stochast-` `-icity`
+- **⚠ Spelling Trap:** Stochastic + ity. Greek 'ch' always. Ends in **-icity** not *-isity* or *-icety*. S-T-O-C-H-A-S-T-I-C-I-T-Y.
+
+---
+
+### Normalisation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *normalis* (made according to a rule, from *norma*: carpenter's square, rule) + *-isation*
+- **Meaning:** The process of scaling data to a standard range — typically [0,1] or unit norm — to improve model training stability.
+- **Roots:** `normal-` `-isation`
+
+---
+
+### Vectorisation
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *vector* (a carrier, from *vehere*: to carry) + *-isation*
+- **Meaning:** The conversion of scalar operations into vector operations to enable simultaneous processing of multiple data elements — critical in scientific computing.
+- **Roots:** `vector-` `-isation`
+
+---
+
+### Perceptron
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Latin *perceptio* (comprehension, from *percipere*: to seize, grasp fully) + *-tron* (instrument, device) — coined by Frank Rosenblatt, 1957
+- **Meaning:** The simplest model of a biological neuron — a single-layer binary classifier that learns a linear decision boundary from training data.
+- **Roots:** `percept-` `-tron`
+
+---
+
+### Geosynchronous
+
+- **Difficulty:** ★★ Medium
+- **Origin:** Greek *geo* (earth) + *syn* (together) + *khronos* (time) + *-ous*
+- **Meaning:** Describing a satellite orbit with a period equal to Earth's rotation — allowing the satellite to remain over the same geographic point on the surface.
+- **Roots:** `geo-` `syn-` `chron-` `-ous`
 
 ---
 
